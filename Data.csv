@@ -1,0 +1,613 @@
+School_ID,Survey_ID,Site,Time,Latitude,Longitude,AS,CC,WH,WS,SA,Saz,TH,CSD,CSD_number,CON,School_size,School_bin,School_size_name,Contrast,Contrast_number,Bottom_type_tone,Bottom_type_tone_code
+F001,210517_Nettle_M2P_01,Nettle,8:44:38,48.934752,-125.247279,6.1,1,2,3.4,29,93.2,1.2,H,3,H,5,1,Small,H,2,Light sand,LT_SAND
+F002,210517_Nettle_M2P_01,Nettle,8:49:35,48.936086,-125.248487,6.1,1,2,3.4,29,93.2,1.2,H,3,H,500,2,Medium,L,1,Dark water column,DK_WAT
+F006,210518_Nettle_M2P_01,Nettle,7:57:15,48.934816,-125.24737,6.6,0.8,1,0,21.3,84.1,2.1,H,3,H,100,1,Small,H,2,Light sand bottom,LT_SAND
+F007,210518_Nettle_M2P_01,Nettle,7:57:19,48.934756,-125.247277,6.6,0.8,1,0,21.3,84.1,2.1,H,3,H,100,1,Small,H,2,Light sand bottom,LT_SAND
+F008,210518_Nettle_M2P_01,Nettle,7:57:23,48.934687,-125.247171,6.6,0.8,1,0,21.3,84.1,2.1,H,3,H,70,1,Small,H,2,Light sand bottom,LT_SAND
+F009,210518_Nettle_M2P_01,Nettle,8:01:05,48.934738,-125.24704,6.6,0.8,1,0,21.3,84.1,2.1,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F010,210518_Nettle_M2P_01,Nettle,8:08:09,48.934848,-125.247213,6.6,0.8,1,0,21.3,84.1,2.1,H,3,H,100,1,Small,H,2,Light sand bottom,LT_SAND
+F011,210518_Nettle_M2P_02,Nettle,8:05:56,48.935009,-125.247248,6.6,0.6,1,0,22.8,85.7,2.1,H,3,H,70,1,Small,H,2,Light water column,LT_WAT
+F012,210518_Nettle_M2P_02,Nettle,8:06:00,48.934945,-125.247149,6.6,0.6,1,0,22.8,85.7,2.1,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F014,210518_Nettle_M2P_02,Nettle,8:09:40,48.935011,-125.247042,6.6,0.6,1,0,22.8,85.7,2.1,H,3,H,20,1,Small,H,2,Light sand bottom,LT_SAND
+F015,210518_Nettle_M2P_02,Nettle,8:09:50,48.935198,-125.247334,6.6,0.6,1,0,22.8,85.7,2.1,H,3,H,200,1,Small,H,2,Dark deep eelgrass,DK_VEG
+F016,210519_ClarkeCamp_M2P_01,Clarke,7:26:37,48.892787,-125.373507,6.1,0.05,0,0,17.3,79.3,2.4,H,3,H,5,1,Small,H,2,Medium water column,MD_WAT
+F019,210519_ClarkeCamp_M2P_01,Clarke,7:34:54,48.893112,-125.373868,6.1,0.05,2,0,17.3,79.3,2.4,H,3,H,30,1,Small,H,2,Medium water column,MD_WAT
+F020,210519_ClarkeCamp_M2P_01,Clarke,7:34:58,48.893063,-125.373992,6.1,0.05,2,0,17.3,79.3,2.4,H,3,H,50,1,Small,H,2,Medium water column,MD_WAT
+F021,210519_ClarkeCamp_M2P_01,Clarke,7:37:41,48.893099,-125.374193,6.1,0.05,0,0,17.3,79.3,2.4,H,3,H,100,1,Small,H,2,Light water column,LT_WAT
+F022,210519_ClarkeCamp_M2P_01,Clarke,7:37:43,48.893127,-125.374123,6.1,0.05,0,0,17.3,79.3,2.4,H,3,H,150,1,Small,H,2,Light water column,LT_WAT
+F023,210519_ClarkeCamp_M2P_01,Clarke,7:39:27,48.893342,-125.373881,6.1,0.05,0,0,17.3,79.3,2.4,H,3,H,100,1,Small,H,2,medium water column,MD_WAT
+F024,210519_ClarkeCamp_M2P_01,Clarke,7:39:32,48.893275,-125.374045,6.1,0.05,0,0,17.3,79.3,2.4,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F025,210519_ClarkeCamp_M2P_02,Clarke,7:48:58,48.892856,-125.376291,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F026,210519_ClarkeCamp_M2P_02,Clarke,7:50:16,48.893251,-125.375583,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F027,210519_ClarkeCamp_M2P_02,Clarke,7:50:01,48.893314,-125.375426,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F028,210519_ClarkeCamp_M2P_02,Clarke,7:50:48,48.893668,-125.374542,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,40,1,Small,H,2,Light sand bottom,LT_SAND
+F029,210519_ClarkeCamp_M2P_02,Clarke,7:51:37,48.89348,-125.37531,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,100,1,Small,H,2,Light sand bottom,LT_SAND
+F030,210519_ClarkeCamp_M2P_02,Clarke,7:51:43,48.89341,-125.375483,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,100,1,Small,H,2,Light sand bottom,LT_SAND
+F031,210519_ClarkeCamp_M2P_02,Clarke,7:52:07,48.893082,-125.376298,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,100,1,Small,H,2,Medium sand bottom,MD_SAND
+F032,210519_ClarkeCamp_M2P_02,Clarke,7:52:53,48.893028,-125.376707,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F033,210519_ClarkeCamp_M2P_02,Clarke,7:53:01,48.893135,-125.376444,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F034,210519_ClarkeCamp_M2P_02,Clarke,7:53:05,48.893189,-125.37631,6.1,0.15,0,0,20.1,82.4,2.4,H,3,H,50,1,Small,H,2,Light sand,LT_SAND
+F035,210519_FishFinding_M2P_01,Clarke,7:53:35,48.893162,-125.375608,6.1,0.15,0,0,21.5,84,2.4,H,3,H,100,1,Small,L,1,medium water colum,MD_WAT
+F036,210519_FishFinding_M2P_01,Clarke,7:53:43,48.893072,-125.375523,6.1,0.15,0,0,21.5,84,2.4,H,3,H,50,1,Small,L,1,light water column,LT_WAT
+F037,210519_FishFinding_M2P_01,Clarke,7:53:55,48.893035,-125.375453,6.1,0.15,0,0,21.5,84,2.4,H,3,H,300,2,Medium,L,1,Light water column,LT_WAT
+F038,210519_FishFinding_M2P_01,Clarke,7:54:57,48.893122,-125.375512,6.1,0.15,0,0,21.5,84,2.4,M,2,L/M,100,1,Small,L,1,Light water column,LT_WAT
+F039,210519_FishFinding_M2P_01,Clarke,7:54:57,48.893122,-125.375512,6.1,0.15,0,0,21.5,84,2.4,H,3,H,100,1,Small,H,2,Light water column,LT_WAT
+F040,210519_FishFinding_M2P_01,Clarke,7:55:15,48.892979,-125.37553,6.1,0.15,0,0,21.5,84,2.4,H,3,H,50,1,Small,H,2,Light water column,LT_WAT
+F041,210519_FishFinding_M2P_01,Clarke,7:56:35,48.892955,-125.375494,6.1,0.15,1,0,21.5,84,2.4,H,3,H,100,1,Small,L,1,Light water column,LT_WAT
+F042,210519_FishFinding_M2P_01,Clarke,7:58:16,48.892816,-125.375317,6.1,0.15,1,0,21.5,84,2.4,H,3,H,50,1,Small,L,1,Light water column,LT_WAT
+F043,210519_FishFinding_M2P_01,Clarke,7:59:45,48.89293,-125.375419,6.1,0.15,1,0,21.5,84,2.4,H,3,H,100,1,Small,L,1,Light water column,LT_WAT
+F044,210519_FishFinding_M2P_01,Clarke,8:01:19,48.892915,-125.375366,6.1,0.15,1,0,21.5,84,2.4,H,3,H,50,1,Small,L,1,Light water column,LT_WAT
+F045,210519_FishFinding_M2P_01,Clarke,8:01:36,48.892958,-125.375416,6.1,0.15,1,0,21.5,84,2.4,H,3,H,50,1,Small,L,1,Light water column,LT_WAT
+F046,210519_FishFinding_M2P_01,Clarke,8:02:49,48.893016,-125.375324,6.1,0.15,0,0,21.5,84,2.4,H,3,H,50,1,Small,L,1,Medium water column,MD_WAT
+F047,210519_FishFinding_M2P_01,Clarke,8:04:08,48.893103,-125.375182,6.1,0.15,1,0,21.5,84,2.4,H,3,H,200,1,Small,L,1,Medium water column,MD_WAT
+F048,210519_FishFinding_M2P_01,Clarke,8:10:00,48.893134,-125.375377,6.1,0.15,0,0,21.5,84,2.4,H,3,H,50,1,Small,H,2,medium water column,MD_WAT
+F049,210519_ClarkeCamp_M2P_03,Clarke,8:15:38,48.893388,-125.374959,6.1,0.15,1,2.5,25,87.8,2.4,H,3,H,100,1,Small,L,1,Light water column,LT_WAT
+F050,210519_ClarkeCamp_M2P_03,Clarke,8:15:59,48.893119,-125.375632,6.1,0.15,1,2.5,25,87.8,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F051,210519_ClarkeCamp_M2P_03,Clarke,8:18:59,48.89349,-125.375285,6.1,0.15,1,2.5,25,87.8,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F052,210519_ClarkeCamp_M2P_03,Clarke,8:19:40,48.892955,-125.376616,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F053,210519_ClarkeCamp_M2P_03,Clarke,8:20:15,48.893026,-125.376714,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F054,210519_ClarkeCamp_M2P_03,Clarke,8:20:24,48.893148,-125.376406,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,40,1,Small,H,2,Light sand bottom,LT_SAND
+F055,210519_ClarkeCamp_M2P_03,Clarke,8:20:29,48.89321,-125.376259,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,70,1,Small,H,2,Light sand bottom,LT_SAND
+F056,210519_ClarkeCamp_M2P_03,Clarke,8:21:46,48.893757,-125.375208,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,100,1,Small,L,1,Light sand bottom,LT_SAND
+F057,210519_ClarkeCamp_M2P_03,Clarke,8:22:16,48.89337,-125.376179,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,100,1,Small,H,2,dark seaweed bottom,DK_VEG
+F058,210519_ClarkeCamp_M2P_03,Clarke,8:22:21,48.893308,-125.37634,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F059,210519_ClarkeCamp_M2P_03,Clarke,8:23:44,48.893804,-125.37537,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F060,210519_ClarkeCamp_M2P_03,Clarke,8:23:46,48.893834,-125.375295,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,200,1,Small,H,2,Light sand bottom,LT_SAND
+F061,210519_ClarkeCamp_M2P_03,Clarke,8:23:46,48.893834,-125.375295,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,100,1,Small,L,1,Light sand bottom,LT_SAND
+F062,210519_ClarkeCamp_M2P_03,Clarke,8:23:50,48.893881,-125.375177,6.1,0.15,0,2.5,25,87.8,2.4,H,3,H,300,2,Medium,H,2,Light sand bottom,LT_SAND
+F064,210520_Nettle_M2P_01,Nettle,7:06:11,48.935107,-125.247819,6.9,0,0,0,13.6,17.8,2.7,H,3,H,50,1,Small,H,2,Dark eelgrass,DK_VEG
+F065,210520_Nettle_M2P_01,Nettle,7:06:20,48.934957,-125.247591,6.9,0,0,0,13.6,17.8,2.7,H,3,H,100,1,Small,H,2,dark eelgrass,DK_VEG
+F066,210520_Nettle_M2P_01,Nettle,7:06:33,48.934725,-125.247231,6.9,0,0,0,13.6,17.8,2.7,H,3,H,100,1,Small,H,2,Dark eelgrass,DK_VEG
+F067,210520_Nettle_M2P_01,Nettle,7:06:39,48.934612,-125.247056,6.9,0,0,0,13.6,17.8,2.7,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F068,210520_Nettle_M2P_01,Nettle,7:06:47,48.934465,-125.246828,6.9,0,0,0,13.6,17.8,2.7,H,3,H,300,2,Medium,H,2,Dark eelgrass,DK_VEG
+F069,210520_Nettle_M2P_01,Nettle,7:06:50,48.934416,-125.246752,6.9,0,0,0,13.6,17.8,2.7,H,3,H,500,2,Medium,H,2,Light sand,LT_SAND
+F070,210520_Nettle_M2P_01,Nettle,7:06:57,48.934298,-125.24657,6.9,0,2,0,13.6,17.8,2.7,M,2,L/M,10,1,Small,H,2,Dark eelgrass,DK_VEG
+F071,210520_Nettle_M2P_01,Nettle,7:07:03,48.934192,-125.246403,6.9,0,2,0,13.6,17.8,2.7,H,3,H,200,1,Small,L,1,Mixed dark eelgrass and medium sand bottom,MIX_MIX
+F072,210520_Nettle_M2P_01,Nettle,7:07:06,48.934146,-125.246334,6.9,0,2,0,13.6,17.8,2.7,H,3,H,500,2,Medium,L,1,Mixed dark eelgrass and medium sand bottom,MIX_MIX
+F073,210520_Nettle_M2P_01,Nettle,7:07:13,48.934017,-125.246136,6.9,0,2,0,13.6,17.8,2.7,H,3,H,200,1,Small,H,2,Dark eelgrass bottom,DK_VEG
+F074,210520_Nettle_M2P_01,Nettle,7:07:21,48.933878,-125.245922,6.9,0,2,0,13.6,17.8,2.7,H,3,H,50,1,Small,H,2,Dark eelgrass,DK_VEG
+F075,210520_Nettle_M2P_01,Nettle,7:07:31,48.933696,-125.24564,6.9,0,2,0,13.6,17.8,2.7,H,3,H,100,1,Small,H,2,dark seaweed bottom,DK_VEG
+F076,210520_Nettle_M2P_01,Nettle,7:07:46,48.933489,-125.245242,6.9,0,2,0,13.6,17.8,2.7,H,3,H,400,2,Medium,L,1,Medium water column,MD_WAT
+F077,210520_Nettle_M2P_01,Nettle,7:07:56,48.933361,-125.244922,6.9,0,2,0,13.6,17.8,2.7,H,3,H,100,1,Small,L,1,Medium water column,MD_WAT
+F078,210520_Nettle_M2P_01,Nettle,7:08:09,48.933188,-125.244488,6.9,0,2,0,13.6,17.8,2.7,H,3,H,200,1,Small,L,1,Medium water column,MD_WAT
+F079,210520_Nettle_M2P_01,Nettle,7:09:01,48.933482,-125.244935,6.9,0,2,0,13.6,17.8,2.7,H,3,H,200,1,Small,L,1,Medium water column,MD_WAT
+F080,210520_Nettle_M2P_01,Nettle,7:09:07,48.93357,-125.24516,6.9,0,2,0,13.6,17.8,2.7,H,3,H,100,1,Small,L,1,Medium water column,MD_WAT
+F081,210520_Nettle_M2P_01,Nettle,7:09:16,48.933652,-125.245357,6.9,0,2,0,13.6,17.8,2.7,H,3,H,100,1,Small,L,1,Medium water column,MD_WAT
+F082,210520_Nettle_M2P_01,Nettle,7:09:20,48.933721,-125.245466,6.9,0,2,0,13.6,17.8,2.7,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F083,210520_Nettle_M2P_01,Nettle,7:02:23,48.933788,-125.24557,6.9,0,2,0,13.6,17.8,2.7,H,3,H,400,2,Medium,H,2,Medium water column,MD_WAT
+F084,210520_Nettle_M2P_01,Nettle,7:09:27,48.933845,-125.245657,6.9,0,2,0,13.6,17.8,2.7,H,3,H,500,2,Medium,H,2,Medium water column,MD_WAT
+F085,210520_Nettle_M2P_01,Nettle,7:09:31,48.933914,-125.245766,6.9,0,2,0,13.6,17.8,2.7,H,3,H,300,2,Medium,H,2,Medium water column,MD_WAT
+F086,210520_Nettle_M2P_01,Nettle,7:09:35,48.933991,-125.245883,6.9,0,2,0,13.6,17.8,2.7,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F087,210520_Nettle_M2P_01,Nettle,7:09:40,48.934085,-125.246029,6.9,0,2,0,13.6,17.8,2.7,H,3,H,200,1,Small,H,2,Medium water column,MD_WAT
+F088,210520_Nettle_M2P_01,Nettle,7:09:44,48.934151,-125.24613,6.9,0,2,0,13.6,17.8,2.7,H,3,H,30,1,Small,H,2,Medium water column,MD_WAT
+F089,210520_Nettle_M2P_01,Nettle,7:09:48,48.934222,-125.24624,6.9,0,2,0,13.6,17.8,2.7,H,3,H,500,2,Medium,H,2,Medium water column,MD_WAT
+F091,210520_Nettle_M2P_01,Nettle,7:10:06,48.934546,-125.246743,6.9,0,0,0,13.6,17.8,2.7,H,3,H,200,1,Small,L,1,Medium rocky bottom,MD_SAND
+F092,210520_Nettle_M2P_01,Nettle,7:10:16,48.93471,-125.24699,6.9,0,0,0,13.6,17.8,2.7,H,3,H,50,1,Small,H,2,Light sand bottom,LT_SAND
+F093,210520_Nettle_M2P_01,Nettle,7:10:24,48.934857,-125.247224,6.9,0,0,0,13.6,17.8,2.7,H,3,H,300,2,Medium,H,2,Light sand bottom,LT_SAND
+F095,210520_Nettle_M2P_01,Nettle,7:10:39,48.935112,-125.24762,6.9,0,0,0,13.6,17.8,2.7,H,3,H,300,2,Medium,H,2,Dark eelgrass,DK_VEG
+F096,210520_Nettle_M2P_01,Nettle,7:10:41,48.935159,-125.247691,6.9,0,0,0,13.6,17.8,2.7,H,3,H,50,1,Small,H,2,Dark eelgrass,DK_VEG
+F098,210520_Nettle_M2P_01,Nettle,7:11:30,48.936138,-125.248536,6.9,0,2,0,13.6,17.8,2.7,H,3,H,400,2,Medium,L,1,Medium water column,MD_WAT
+F099,210520_Nettle_M2P_02,Nettle,7:14:27,48.935688,-125.247973,6.9,0,0,0,15,76.4,2.7,H,3,H,200,1,Small,H,2,Medium water column,MD_WAT
+F100,210520_Nettle_M2P_02,Nettle,7:14:49,48.935229,-125.247592,6.9,0,2,0,15,76.4,2.7,L,1,L/M,200,1,Small,L,1,Medium water column,MD_WAT
+F101,210520_Nettle_M2P_02,Nettle,7:15:03,48.935003,-125.24724,6.9,0,2,0,15,76.4,2.7,H,3,H,20,1,Small,H,2,Light sand bottom,LT_SAND
+F102,210520_Nettle_M2P_02,Nettle,7:15:07,48.93492,-125.24711,6.9,0,2,0,15,76.4,2.7,H,3,H,10,1,Small,H,2,Light sand bottom,LT_SAND
+F103,210520_Nettle_M2P_02,Nettle,7:15:15,48.934781,-125.246895,6.9,0,2,0,15,76.4,2.7,H,3,H,10,1,Small,H,2,Light sand bottom,LT_SAND
+F104,210520_Nettle_M2P_02,Nettle,7:15:26,48.934598,-125.24661,6.9,0,0,0,15,76.4,2.7,H,3,H,60,1,Small,L,1,Mixed light sand and dark rocks,MIX_MIX
+F105,210520_Nettle_M2P_02,Nettle,7:15:30,48.934529,-125.246503,6.9,0,0,0,15,76.4,2.7,H,3,H,30,1,Small,L,1,Mixed light sand and dark rocks,MIX_MIX
+F106,210520_Nettle_M2P_02,Nettle,7:15:36,48.934316,-125.246326,6.9,0,0,0,15,76.4,2.7,H,3,H,1000,3,Large,L,1,Medium rocky bottom,MD_SAND
+F107,210520_Nettle_M2P_02,Nettle,7:15:42,48.934313,-125.246167,6.9,0,0,0,15,76.4,2.7,H,3,H,500,2,Medium,H,2,Medium water column,MD_WAT
+F108,210520_Nettle_M2P_02,Nettle,7:15:47,48.934226,-125.24603,6.9,0,0,0,15,76.4,2.7,H,3,H,500,2,Medium,H,2,Medium water column,MD_WAT
+F109,210520_Nettle_M2P_02,Nettle,7:15:52,48.934135,-125.24589,6.9,0,0,0,15,76.4,2.7,H,3,H,1000,3,Large,H,2,Medium water column,MD_WAT
+F110,210520_Nettle_M2P_02,Nettle,7:16:06,48.933891,-125.24551,6.9,0,0,0,15,76.4,2.7,H,3,H,40,1,Small,H,2,medium water column,MD_WAT
+F111,210520_Nettle_M2P_02,Nettle,7:16:26,48.933608,-125.244959,6.9,0,0,0,15,76.4,2.7,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F112,210520_Nettle_M2P_02,Nettle,7:18:03,48.93426,-125.245874,6.9,0,2,0,15,76.4,2.7,H,3,H,50,1,Small,H,2,Medium water column,MD_WAT
+F113,210520_Nettle_M2P_02,Nettle,7:18:08,48.934347,-125.246008,6.9,0,2,0,15,76.4,2.7,H,3,H,500,2,Medium,H,2,Medium water column,MD_WAT
+F114,210520_Nettle_M2P_02,Nettle,7:18:12,48.934409,-125.246103,6.9,0,2,0,15,76.4,2.7,H,3,H,400,2,Medium,H,2,Medium water column,MD_WAT
+F115,210520_Nettle_M2P_02,Nettle,7:18:48,48.935039,-125.247087,6.9,0,0,0,15,76.4,2.7,H,3,H,50,1,Small,H,2,Light sand ,LT_SAND
+F116,210520_Nettle_M2P_02,Nettle,7:18:51,48.9351,-125.247179,6.9,0,0,0,15,76.4,2.7,H,3,H,20,1,Small,H,2,Light sand ,LT_SAND
+F117,210520_Nettle_M2P_02,Nettle,7:19:01,48.935268,-125.247443,6.9,0,0,0,15,76.4,2.7,H,3,H,300,2,Medium,H,2,medium water column,MD_WAT
+F118,210520_Nettle_M2P_03,Nettle,7:27:33,48.934589,-125.246058,6.9,0,2,2,16.9,78.5,2.7,H,3,H,10,1,Small,L,1,Medium water column,MD_WAT
+F119,210520_Nettle_M2P_04,Nettle,7:38:02,48.936073,-125.248672,6.9,0,2,2.5,18.9,80.7,2.6,M,2,L/M,50,1,Small,H,2,Medium water column,MD_WAT
+F120,210520_Nettle_M2P_04,Nettle,7:39:16,48.934638,-125.247094,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,20,1,Small,H,2,Light sand bottom,LT_SAND
+F121,210520_Nettle_M2P_04,Nettle,7:39:41,48.934207,-125.24643,6.9,0,2,2.5,18.9,80.7,2.6,M,2,L/M,100,1,Small,L,1,Medium water column,MD_WAT
+F122,210520_Nettle_M2P_04,Nettle,7:39:45,48.934132,-125.246315,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,30,1,Small,L,1,Dark seaweed bottom,DK_VEG
+F123,210520_Nettle_M2P_04,Nettle,7:39:48,48.934081,-125.246236,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,300,2,Medium,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F124,210520_Nettle_M2P_04,Nettle,7:39:52,48.934,-125.246124,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,200,1,Small,H,2,mixed medium sand and dark rocks,MIX_MIX
+F125,210520_Nettle_M2P_04,Nettle,7:40:09,48.933705,-125.24562,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,50,1,Small,L,1,Medium water column,MD_WAT
+F126,210520_Nettle_M2P_04,Nettle,7:40:53,48.933122,-125.244323,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,100,1,Small,H,2,dark seaweed bottom,DK_VEG
+F127,210520_Nettle_M2P_04,Nettle,7:43:00,48.93482,-125.247166,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,15,1,Small,H,2,Light sand,LT_SAND
+F128,210520_Nettle_M2P_04,Nettle,7:44:24,48.93647,-125.248855,6.9,0,2,2.5,18.9,80.7,2.6,H,3,H,40,1,Small,L,1,Light water column,LT_WAT
+F129,210521_ClarkeCamp_M2P_01,Clarke,7:22:14,48.893648,-125.373681,4.9,1,0,3.6,17,78.3,2.5,H,3,H,15,1,Small,L,1,dark water column,DK_WAT
+F132,210521_ClarkeCamp_M2P_01,Clarke,7:30:16,48.892951,-125.376624,4.9,1,0,3.6,17,78.3,2.5,H,3,H,4,1,Small,H,2,Light sand bottom ,LT_SAND
+F133,210521_ClarkeCamp_M2P_01,Clarke,7:30:51,48.893031,-125.3767,4.9,1,3,3.6,17,78.3,2.5,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F134,210521_ClarkeCamp_M2P_01,Clarke,7:32:55,48.893311,-125.376326,4.9,1,0,3.6,17,78.3,2.5,H,3,H,50,1,Small,L,1,Medium sand bottom,MD_SAND
+F135,210521_ClarkeCamp_M2P_01,Clarke,7:33:05,48.893187,-125.376636,4.9,1,0,3.6,17,78.3,2.5,H,3,H,20,1,Small,L,1,Medium sand bottom,MD_SAND
+F137,210521_Trickett_M2P_01,Trickett,7:58:00,48.90597,-125.367845,4.8,1,3,6.3,21.8,83.7,2.6,H,3,H,30,1,Small,H,2,light sand bottom,LT_SAND
+F138,210521_Trickett_M2P_01,Trickett,7:59:32,48.90608,-125.367831,4.8,1,3,6.3,21.8,83.7,2.6,H,3,H,30,1,Small,L,1,Medium sand bottom,MD_SAND
+F139,210521_Trickett_M2P_01,Trickett,8:01:35,48.906275,-125.367392,4.8,1,3,6.3,21.8,83.7,2.6,H,3,H,30,1,Small,L,1,Medium sand bottom,MD_SAND
+F140,210521_Trickett_M2P_01,Trickett,8:01:37,48.906254,-125.36749,4.8,1,3,6.3,21.8,83.7,2.6,H,3,H,30,1,Small,L,1,Medium sand bottom,MD_SAND
+F141,210521_Trickett_M2P_03,Trickett,8:32:35,48.906332,-125.369126,4.8,1,0,3.1,27.7,90.3,2.7,H,3,H,20,1,Small,H,2,Light sand bottom,LT_SAND
+F142,210521_Trickett_M2P_03,Trickett,8:32:39,48.906301,-125.369288,4.8,1,0,3.1,27.7,90.3,2.7,H,3,H,15,1,Small,H,2,Light sand bottom,LT_SAND
+F143,210521_Trickett_M2P_03,Trickett,8:33:07,48.906393,-125.36938,4.8,1,0,3.1,27.7,90.3,2.7,H,3,H,10,1,Small,L,1,Medium mixed bottom,MD_MIX
+F144,210521_Trickett_M2P_04,Trickett,8:47:44,48.907094,-125.366911,4.8,1,2,4.4,29,91.8,2.7,H,3,H,100,1,Small,H,2,Light sand,LT_SAND
+F145,210521_Trickett_M2P_04,Trickett,8:48:39,48.907215,-125.366781,4.8,1,2,4.4,29,91.8,2.7,H,3,H,60,1,Small,H,2,Light sand,LT_SAND
+F146,210521_Trickett_M2P_04,Trickett,8:48:46,48.907162,-125.367016,4.8,1,2,4.4,29,91.8,2.7,H,3,H,100,1,Small,H,2,Light sand,LT_SAND
+F147,210521_Nettle_M2P_01,Nettle,9:22:56,48.936258,-125.248846,4,1,0,4.4,36.1,100.5,2.6,H,3,H,15,1,Small,L,1,Medium bottom,MD_MIX
+F149,210521_Nettle_M2P_01,Nettle,9:24:07,48.934825,-125.247386,4,1,0,4.4,36.1,100.5,2.6,H,3,H,300,2,Medium,H,2,light sand bottom,LT_SAND
+F151,210521_Nettle_M2P_01,Nettle,9:28:00,48.934773,-125.247094,4,1,1,4.4,36.1,100.5,2.6,H,3,H,50,1,Small,L,1,Light sand bottom,LT_SAND
+F152,210521_Nettle_M2P_02,Nettle,9:33:14,48.934397,-125.246295,4,1,1,4.4,37.4,102.2,2.5,H,3,H,100,1,Small,H,2,dark bottom,DK_VEG
+F153,210521_FishFinding_M2P_01,Nettle,10:16:33,48.928331,-125.250253,5.6,1,0,0,44.3,112.4,2.5,H,3,H,15,1,Small,H,2,Dark water column,DK_WAT
+F155,210521_FishFinding_M2P_01,Nettle,10:17:07,48.928224,-125.249991,5.6,1,0,0,44.3,112.4,2.5,H,3,H,1000,3,Large,H,2,Dark water column,DK_WAT
+F156,210531_Secchi_M2P_01,Cabin,6:47:50,48.928303,-125.250177,5,1,0,0,12,69.6,2.4,H,3,H,5,1,Small,H,2,Dark water column,DK_WAT
+F157,210531_Quadrat_M2P_09,Cabin,8:25:53,48.928311,-125.250169,4.8,1,0,0,27.2,87,1.8,H,3,H,30,1,Small,L,1,Dark water column,DK_WAT
+F158,210531_Quadrat_M2P_10,Cabin,8:35:16,48.928311,-125.250169,4.8,1,0,0,28.8,88.8,1.2,H,3,H,300,2,Medium,H,2,Dark water column,DK_WAT
+F159,210531_Quadrat_M2P_11,Cabin,8:42:56,48.928311,-125.250149,5,1,0,0,30.6,90.9,1.2,H,3,H,1000,3,Large,H,2,dark water column,DK_WAT
+F161,210531_Quadrat_M2P_18,Cabin,10:05:02,48.928299,-125.250141,4.8,1,0,0,43.5,107.4,0.7,H,3,H,50,1,Small,H,2,Dark water column,DK_WAT
+F162,210531_Quadrat_M2P_20,Cabin,10:27:24,48.928374,-125.250237,4.8,1,1,0,47.2,113.6,0.5,H,3,H,500,2,Medium,H,2,Dark water column,DK_WAT
+F164,210531_Quadrat_M2P_21,Cabin,10:37:16,48.928304,-125.250101,4.8,1,1,2.8,48.1,115.2,0.5,H,3,H,500,2,Medium,H,2,Dark water column,DK_WAT
+F169,210601_Secchi_M2P_05,Cabin,10:14:33,48.928298,-125.250168,5,0,0,0,45.2,109.2,1.3,H,3,H,50,1,Small,L,1,Medium water column,MD_WAT
+F170,210602_Secchi_M2P_02,Cabin,7:51:49,48.928107,-125.255783,5.6,0.1,0,2.9,21.1,80.4,2.6,H,3,H,50,1,Small,H,2,light water column and light fish,LT_WAT
+F172,210602_Secchi_M2P_03,Cabin,8:13:05,48.928352,-125.250311,5.3,0.2,0,0,26,84.5,2.6,H,3,H,50,1,Small,L,1,Medium water column,MD_WAT
+F173,210602_Secchi_M2P_03,Cabin,8:13:15,48.928352,-125.250311,5.3,0.2,0,0,26,84.5,2.6,H,3,H,300,2,Medium,H,2,Light water column,LT_WAT
+F175,210614_Nettle_M2P_01,Nettle,6:50:14,48.936225,-125.248815,5.7,0.95,0,4.7,11,69.6,1.6,H,3,H,10,1,Small,H,2,Dark bottom,DK_VEG
+F176,210614_Nettle_M2P_01,Nettle,6:50:20,48.936094,-125.248692,5.7,0.95,0,4.7,11,69.6,1.6,H,3,H,20,1,Small,H,2,Dark bottom,DK_VEG
+F177,210614_Nettle_M2P_01,Nettle,6:51:33,48.934693,-125.247182,5.7,0.95,0,4.7,11,69.6,1.6,H,3,H,5,1,Small,H,2,Light sand,LT_SAND
+F178,210614_Nettle_M2P_01,Nettle,6:53:32,48.933141,-125.244086,5.7,0.95,3,4.7,11,69.6,1.6,H,3,H,300,2,Medium,H,2,Dark bottom,DK_VEG
+F179,210614_Nettle_M2P_01,Nettle,6:54:36,48.934063,-125.245989,5.7,0.95,3,4.7,11,69.6,1.6,H,3,H,100,1,Small,L,1,Medium water column,MD_WAT
+F180,210614_Nettle_M2P_02,Nettle,7:03:21,48.934457,-125.246179,5.7,0.95,3,1,12.1,70.9,1.6,H,3,H,500,2,Medium,H,2,Dark water column,DK_WAT
+F181,210614_Nettle_M2P_03,Nettle ,7:10:30,48.934695,-125.246941,5.7,0.95,0,0,14,73,1.6,H,3,H,5,1,Small,L,1,mixed medium rocky bottom,MIX_MIX
+F182,210614_Nettle_M2P_03,Nettle ,7:11:23,48.934613,-125.246585,5.7,0.95,2,0,14,73,1.6,H,3,H,6,1,Small,L,1,mixed medium rocky bottom,MIX_MIX
+F184,210614_Nettle_M2P_03,Nettle ,7:12:08,48.934264,-125.246247,5.7,0.95,2,0,14,73,1.6,H,3,H,10000,3,Large,L,1,Dark water column,DK_WAT
+F185,210614_Nettle_M2P_03,Nettle ,7:12:24,48.934322,-125.246107,5.7,0.95,1,0,14,73,1.6,H,3,H,10000,3,Large,L,1,Dark water column,DK_WAT
+F187,210614_FishFinding_M2P_01,Nettle ,7:25:48,48.935519,-125.246306,5.7,0.95,0,0,18.3,75.2,1.6,H,3,H,10000,3,Large,L,1,dark water column,DK_WAT
+F188,210614_FishFinding_M2P_01,Nettle ,7:27:47,48.935462,-125.246517,5.7,0.95,2,0,18.3,75.2,1.6,H,3,H,10000,3,Large,L,1,dark water column,DK_WAT
+F190,210614_Nettle_M2P_04,Nettle ,7:37:18,48.933036,-125.244149,4.8,0.9,0,0,18.4,77.9,1,H,3,H,2,1,Small,H,2,Dark water column,DK_WAT
+F191,210614_Nettle_M2P_04,Nettle ,7:42:25,48.934021,-125.246142,4.8,0.9,2,0,18.4,77.9,1,H,3,H,20,1,Small,H,2,Light rock sand bottom,LT_SAND
+F192,210614_Nettle_M2P_04,Nettle ,7:42:34,48.934051,-125.246237,4.8,0.9,2,0,18.4,77.9,1,H,3,H,15,1,Small,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F193,210614_Nettle_M2P_04,Nettle ,7:44:07,48.934462,-125.246882,4.8,0.9,0,0,18.4,77.9,1,H,3,H,30,1,Small,H,2,Medium sand bottom,MD_SAND
+F194,210614_Nettle_M2P_05,Nettle ,7:45:32,48.934462,-125.246891,4.8,0.9,0,0,19.7,79.4,1,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F195,210614_Nettle_M2P_05,Nettle ,7:45:46,48.934681,-125.246918,4.8,0.9,0,0,19.7,79.4,1,H,3,H,15,1,Small,H,2,light sand bottom,LT_SAND
+F196,210614_Nettle_M2P_05,Nettle ,7:45:59,48.934456,-125.246739,4.8,0.9,0,0,19.7,79.4,1,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F197,210614_Nettle_M2P_05,Nettle ,7:46:41,48.934521,-125.246442,4.8,0.9,0,0,19.7,79.4,1,H,3,H,3,1,Small,L,1,medium mixed rocky bottom,MIX_MIX
+F198,210614_Nettle_M2P_05,Nettle ,7:47:05,48.934051,-125.246199,4.8,0.9,1,0,19.7,79.4,1,H,3,H,30,1,Small,H,2,light shell hash bottom,LT_SAND
+F199,210614_Nettle_M2P_05,Nettle ,7:52:39,48.933141,-125.244023,4.8,0.9,1,0,19.7,79.4,1,H,3,H,10,1,Small,L,1,medium water column,MD_WAT
+F200,210614_FishFinding_M2P_02,Nettle ,7:56:36,48.935541,-125.246311,4.8,0.9,1,0,23,80.4,1,H,3,H,10000,3,Large,H,2,dark water column,DK_WAT
+F210,210614_Nettle_M2P_06,Nettle ,8:03:56,48.936863,-125.249924,4.8,0.9,1,0,24.8,82.4,1,H,3,H,10000,3,Large,H,2,Medium water column,MD_WAT
+F211,210614_Nettle_M2P_06,Nettle ,8:06:31,48.934091,-125.246249,4.8,0.9,1,0,24.8,82.4,1,H,3,H,20,1,Small,H,2,light sand bottom,LT_SAND
+F212,210614_Nettle_M2P_06,Nettle ,8:09:03,48.934099,-125.246051,4.8,0.9,1,0,24.8,82.4,1,H,3,H,4,1,Small,H,2,light shell hash bottom,LT_SAND
+F213,210614_Nettle_M2P_06,Nettle ,8:09:08,48.934187,-125.246188,4.8,0.9,1,0,24.8,82.4,1,H,3,H,4,1,Small,H,2,light shell hash bottom,LT_SAND
+F214,210614_Nettle_M2P_06,Nettle ,8:09:27,48.934522,-125.246707,4.8,0.9,1,0,24.8,82.4,1,H,3,H,20,1,Small,H,2,light sand bottom,LT_SAND
+F215,210614_Nettle_M2P_06,Nettle ,8:09:49,48.934904,-125.247299,4.8,0.9,1,0,24.8,82.4,1,H,3,H,4,1,Small,H,2,light sand bottom,LT_SAND
+F216,210614_Nettle_M2P_06,Nettle ,8:11:32,48.936823,-125.249495,4.8,0.9,1,0,24.8,82.4,1,H,3,H,10000,3,Large,H,2,medium water column,MD_WAT
+F217,210614_Nettle_M2P_07,Nettle ,8:12:41,48.936896,-125.249346,4.8,0.9,1,0,26.3,84,1,H,3,H,10000,3,Large,H,2,dark water colum,DK_WAT
+F218,210614_Nettle_M2P_07,Nettle ,8:14:26,48.934955,-125.247165,4.8,0.9,1,0,26.3,84,1,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F219,210614_Nettle_M2P_07,Nettle ,8:14:47,48.934585,-125.246569,4.8,0.9,1,0,26.3,84,1,H,3,H,5,1,Small,L,1,medium mixed rocky bottom,MIX_MIX
+F220,210614_Nettle_M2P_07,Nettle ,8:17:41,48.934571,-125.246354,4.8,0.9,1,0,26.3,84,1,H,3,H,5,1,Small,L,1,medium mixed bottom,MD_MIX
+F221,210614_Nettle_M2P_07,Nettle ,8:18:07,48.935025,-125.247064,4.8,0.9,0,0,26.3,84,1,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F222,210614_Nettle_M2P_07,Nettle ,8:18:11,48.935098,-125.247177,4.8,0.9,0,0,26.3,84,1,H,3,H,15,1,Small,H,2,light sand bottom,LT_SAND
+F223,210614_Nettle_M2P_07,Nettle ,8:18:33,48.935484,-125.247627,4.8,0.9,0,0,26.3,84,1,H,3,H,10000,3,Large,H,2,dark water colum,DK_WAT
+F225,210616_Nettle_M2P_01,Nettle ,6:29:57,48.936972,-125.250218,6.2,0.3,2,0,7.8,66.3,2.3,H,3,H,50,1,Small,H,2,medium water column,MD_WAT
+F226,210616_Nettle_M2P_01,Nettle ,6:30:58,48.936055,-125.248654,6.2,0.3,2,0,7.8,66.3,2.3,L,1,L/M,20,1,Small,L,1,medium water column,MD_WAT
+F227,210616_Nettle_M2P_01,Nettle ,6:31:50,48.935017,-125.247681,6.2,0.3,2,0,7.8,66.3,2.3,H,3,H,5,1,Small,H,2,Light sand bottom,LT_SAND
+F228,210616_Nettle_M2P_01,Nettle ,6:31:55,48.934938,-125.247558,6.2,0.3,2,0,7.8,66.3,2.3,L,1,L/M,5,1,Small,L,1,Dark textrured eelgrass,DK_VEG
+F229,210616_Nettle_M2P_01,Nettle ,6:31:59,48.934867,-125.247448,6.2,0.3,2,0,7.8,66.3,2.3,H,3,H,10,1,Small,H,2,Light sand bottom,LT_SAND
+F230,210616_Nettle_M2P_01,Nettle ,6:32:04,48.934779,-125.247313,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F231,210616_Nettle_M2P_01,Nettle ,6:32:10,48.934666,-125.247138,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F232,210616_Nettle_M2P_01,Nettle ,6:32:14,48.934601,-125.247037,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,40,1,Small,H,2,Light sand bottom,LT_SAND
+F233,210616_Nettle_M2P_01,Nettle ,6:32:21,48.934479,-125.246848,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,20,1,Small,H,2,Light sand bottom,LT_SAND
+F234,210616_Nettle_M2P_01,Nettle ,6:32:26,48.934385,-125.246706,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,30,1,Small,H,2,Light sand bottom,LT_SAND
+F235,210616_Nettle_M2P_01,Nettle ,6:32:50,48.933964,-125.246055,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,200,1,Small,L,1,Light water column,LT_WAT
+F236,210616_Nettle_M2P_01,Nettle ,6:32:50,48.933955,-125.246041,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,20,1,Small,L,1,Medium eelgrass bottom,MD_VEG
+F237,210616_Nettle_M2P_01,Nettle ,6:33:03,48.933736,-125.245701,6.2,0.3,1,0,7.8,66.3,2.3,M,2,L/M,20,1,Small,L,1,Light water column,LT_WAT
+F238,210616_Nettle_M2P_01,Nettle ,6:33:26,48.933417,-125.245061,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,1000,3,Large,H,2,Light water column,LT_WAT
+F239,210616_Nettle_M2P_01,Nettle ,6:33:35,48.933296,-125.244756,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,10,1,Small,H,2,Light water column,LT_WAT
+F240,210616_Nettle_M2P_01,Nettle ,6:33:59,48.933046,-125.244073,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,50,1,Small,L,1,Light water column,LT_WAT
+F241,210616_Nettle_M2P_01,Nettle ,6:34:09,48.933152,-125.244115,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,50,1,Small,L,1,Light water column,LT_WAT
+F242,210616_Nettle_M2P_01,Nettle ,6:34:26,48.933365,-125.244644,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,1000,3,Large,H,2,Light water column,LT_WAT
+F243,210616_Nettle_M2P_01,Nettle ,6:35:01,48.933845,-125.245667,6.2,0.3,1,0,7.8,66.3,2.3,M,2,L/M,100,1,Small,L,1,Light water column,LT_WAT
+F244,210616_Nettle_M2P_01,Nettle ,6:35:03,48.933887,-125.245725,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,300,2,Medium,H,2,Light water column,LT_WAT
+F245,210616_Nettle_M2P_01,Nettle ,6:35:12,48.934044,-125.245967,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,100,1,Small,H,2,Light water column,LT_WAT
+F246,210616_Nettle_M2P_01,Nettle ,6:35:17,48.934126,-125.246096,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,100,1,Small,H,2,Light water column,LT_WAT
+F247,210616_Nettle_M2P_01,Nettle ,6:35:20,48.934193,-125.246201,6.2,0.3,1,0,7.8,66.3,2.3,H,3,H,100,1,Small,H,2,Light water column,LT_WAT
+F248,210616_Nettle_M2P_01,Nettle ,6:35:25,48.934269,-125.246317,6.2,0.3,1,0,7.8,66.3,2.3,M,2,L/M,15,1,Small,L,1,Light water column,LT_WAT
+F249,210616_Nettle_M2P_01,Nettle ,6:35:32,48.934401,-125.246528,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,500,2,Medium,H,2,Medium mixed bottom,MD_MIX
+F250,210616_Nettle_M2P_01,Nettle ,6:35:35,48.934446,-125.246589,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,40,1,Small,H,2,Medium mixed bottom,MD_MIX
+F251,210616_Nettle_M2P_01,Nettle ,6:35:39,48.934515,-125.246696,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,30,1,Small,L,1,Medium mixed bottom,MD_MIX
+F252,210616_Nettle_M2P_01,Nettle ,6:35:47,48.934663,-125.246926,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,30,1,Small,L,1,Medium mixed bottom,MD_MIX
+F253,210616_Nettle_M2P_01,Nettle ,6:35:51,48.934736,-125.247041,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,20,1,Small,H,2,light sand bottom,LT_SAND
+F254,210616_Nettle_M2P_01,Nettle ,6:35:58,48.934848,-125.247212,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F255,210616_Nettle_M2P_01,Nettle ,6:36:23,48.935272,-125.247808,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,50,1,Small,H,2,medium water column,MD_WAT
+F256,210616_Nettle_M2P_01,Nettle ,6:37:13,48.936341,-125.248731,6.2,0.3,0,0,7.8,66.3,2.3,H,3,H,50,1,Small,H,2,medium water column,MD_WAT
+F258,210616_FishFinding_M2P_01,Nettle ,6:39:32,48.935337,-125.246536,6.2,0.2,1,0,11.1,67,2.3,H,3,H,50,1,Small,H,2,medium rocky bottom,MD_SAND
+F259,210616_FishFinding_M2P_01,Nettle ,6:40:32,48.935475,-125.246612,6.2,0.2,1,0,11.1,67,2.3,H,3,H,200,1,Small,H,2,medium water column,MD_WAT
+F261,210616_FishFinding_M2P_01,Nettle ,6:41:00,48.935331,-125.246659,6.2,0.2,1,0,11.1,67,2.3,H,3,H,200,1,Small,H,2,medium water column,MD_WAT
+F262,210616_Nettle_M2P_02,Nettle ,6:47:58,48.935229,-125.247592,6.2,0.2,0,0,12.5,68.6,2.3,H,3,H,50,1,Small,L,1,Medium eelgrass,MD_VEG
+F263,210616_Nettle_M2P_02,Nettle ,6:48:13,48.935011,-125.247251,6.2,0.2,1,0,12.5,68.6,2.3,H,3,H,50,1,Small,L,1,medium eelgrass,MD_VEG
+F264,210616_Nettle_M2P_02,Nettle ,6:48:20,48.934886,-125.247054,6.2,0.2,1,0,12.5,68.6,2.3,H,3,H,10,1,Small,H,2,Light sand,LT_SAND
+F265,210616_Nettle_M2P_02,Nettle ,6:48:34,48.934627,-125.246654,6.2,0.2,0,0,12.5,68.6,2.3,H,3,H,10,1,Small,H,2,Light rock sand bottom,LT_SAND
+F266,210616_Nettle_M2P_02,Nettle ,6:48:40,48.934539,-125.246516,6.2,0.2,1,0,12.5,68.6,2.3,H,3,H,20,1,Small,H,2,light mixed bottom,LT_MIX
+F267,210616_Nettle_M2P_02,Nettle ,6:48:48,48.934387,-125.246268,6.2,0.2,1,0,12.5,68.6,2.3,H,3,H,500,2,Medium,H,2,Light water colum,LT_WAT
+F268,210616_Nettle_M2P_02,Nettle ,6:48:55,48.934256,-125.246075,6.2,0.2,2,0,12.5,68.6,2.3,L,1,L/M,20,1,Small,L,1,light water column,LT_WAT
+F269,210616_Nettle_M2P_02,Nettle ,6:48:59,48.934191,-125.245976,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,20,1,Small,H,2,light water column,LT_WAT
+F270,210616_Nettle_M2P_02,Nettle ,6:49:02,48.934133,-125.245887,6.2,0.2,2,0,12.5,68.6,2.3,M,2,L/M,40,1,Small,L,1,light water column,LT_WAT
+F271,210616_Nettle_M2P_02,Nettle ,6:49:05,48.934079,-125.245803,6.2,0.2,2,0,12.5,68.6,2.3,M,2,L/M,20,1,Small,L,1,light water column,LT_WAT
+F272,210616_Nettle_M2P_02,Nettle ,6:51:10,48.934189,-125.245761,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,500,2,Medium,H,2,Light water colum,LT_WAT
+F273,210616_Nettle_M2P_02,Nettle ,6:51:13,48.934236,-125.245832,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,500,2,Medium,H,2,Light water column,LT_WAT
+F274,210616_Nettle_M2P_02,Nettle ,6:51:58,48.935017,-125.247051,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,5,1,Small,H,2,light bottom,LT_SAND
+F275,210616_Nettle_M2P_02,Nettle ,6:52:01,48.935071,-125.247134,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,20,1,Small,H,2,light bottom,LT_SAND
+F276,210616_Nettle_M2P_02,Nettle ,6:52:04,48.935121,-125.247214,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,20,1,Small,H,2,light bottom,LT_SAND
+F277,210616_Nettle_M2P_02,Nettle ,6:53:38,48.936927,-125.249127,6.2,0.2,2,0,12.5,68.6,2.3,H,3,H,200,1,Small,H,2,Light water column,LT_WAT
+F278,210616_Nettle_M2P_03,Nettle ,6:55:32,48.935061,-125.247261,7,0.3,4,5.6,13.9,70.1,2.3,H,3,H,15,1,Small,H,2,light sand,LT_SAND
+F279,210616_Nettle_M2P_03,Nettle ,6:55:35,48.934982,-125.247263,7,0.3,4,5.6,13.9,70.1,2.3,H,3,H,10,1,Small,H,2,light mixed bottom,LT_MIX
+F280,210616_Nettle_M2P_03,Nettle ,6:55:42,48.934861,-125.247271,7,0.3,0,5.6,13.9,70.1,2.3,H,3,H,15,1,Small,H,2,light mixed bottom,LT_MIX
+F281,210616_Nettle_M2P_03,Nettle ,6:55:45,48.934829,-125.247382,7,0.3,0,5.6,13.9,70.1,2.3,H,3,H,30,1,Small,H,2,Light sand and eelgrass,LT_MIX
+F282,210616_Nettle_M2P_03,Nettle ,6:56:30,48.934893,-125.247555,7,0.3,0,5.6,13.9,70.1,2.3,H,3,H,20,1,Small,H,2,light sand,LT_SAND
+F283,210616_Nettle_M2P_03,Nettle ,6:56:38,48.935011,-125.247713,7,0.3,1,5.6,13.9,70.1,2.3,H,3,H,10,1,Small,H,2,light sand,LT_SAND
+F284,210616_Nettle_M2P_03,Nettle ,7:00:47,48.936194,-125.248861,7,0.3,4,5.6,13.9,70.1,2.3,H,3,H,10,1,Small,H,2,light sand,LT_SAND
+F285,210616_Nettle_M2P_03,Nettle ,7:02:02,48.936791,-125.249135,7,0.3,4,5.6,13.9,70.1,2.3,H,3,H,200,1,Small,H,2,light water column,LT_WAT
+F286,210616_Nettle_M2P_03,Nettle ,7:02:31,48.936608,-125.249342,7,0.3,4,5.6,13.9,70.1,2.3,H,3,H,30,1,Small,L,1,Light water column,LT_WAT
+F287,210616_Nettle_M2P_04,Nettle ,7:07:19,48.934396,-125.246578,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,8,1,Small,H,2,light sand bottom,LT_SAND
+F288,210616_Nettle_M2P_04,Nettle ,7:07:37,48.934548,-125.246486,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,300,2,Medium,H,2,Light mixed bottom,LT_MIX
+F289,210616_Nettle_M2P_04,Nettle ,7:07:43,48.934465,-125.246434,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,300,2,Medium,H,2,light mixed bottom,LT_MIX
+F290,210616_Nettle_M2P_04,Nettle ,7:07:45,48.934409,-125.246424,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,200,1,Small,H,2,medium mixed bottom,MD_MIX
+F291,210616_Nettle_M2P_04,Nettle ,7:07:51,48.934283,-125.246402,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,30,1,Small,H,2,Medium mixed bottom,MD_MIX
+F292,210616_Nettle_M2P_04,Nettle ,7:08:17,48.934277,-125.246252,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,100,1,Small,H,2,medium mixed bottom,MD_MIX
+F293,210616_Nettle_M2P_04,Nettle ,7:08:21,48.934379,-125.246274,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,500,2,Medium,H,2,medium water column,MD_WAT
+F294,210616_Nettle_M2P_04,Nettle ,7:08:31,48.934349,-125.246153,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,50,1,Small,H,2,medium water column,MD_WAT
+F295,210616_Nettle_M2P_04,Nettle ,7:10:35,48.933613,-125.245339,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,200,1,Small,H,2,medium water column,MD_WAT
+F296,210616_Nettle_M2P_04,Nettle ,7:10:43,48.933501,-125.245271,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,300,2,Medium,H,2,Medium water column,MD_WAT
+F297,210616_Nettle_M2P_04,Nettle ,7:10:47,48.933451,-125.245159,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,500,2,Medium,H,2,medium bottom,MD_MIX
+F298,210616_Nettle_M2P_04,Nettle ,7:10:53,48.933524,-125.245179,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,500,2,Medium,H,2,medium water column,MD_WAT
+F299,210616_Nettle_M2P_04,Nettle ,7:11:24,48.933453,-125.245006,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,500,2,Medium,H,2,Medium bottom,MD_MIX
+F300,210616_Nettle_M2P_04,Nettle ,7:11:35,48.933321,-125.244821,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,200,1,Small,L,1,light sand bottom,LT_SAND
+F301,210616_Nettle_M2P_04,Nettle ,7:12:15,48.933259,-125.244663,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,200,1,Small,L,1,Medium bottom,MD_MIX
+F302,210616_Nettle_M2P_04,Nettle ,7:12:28,48.933266,-125.244509,7,0.2,4,5.9,15.4,71.9,2.3,H,3,H,200,1,Small,H,2,medium water column,MD_WAT
+F303,210616_Nettle_M2P_04,Nettle ,7:13:09,48.933051,-125.244159,7,0.2,1,5.9,15.4,71.9,2.3,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F304,210616_Nettle_M2P_05,Nettle ,7:15:03,48.933061,-125.244225,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,40,1,Small,H,2,Medium eelgrass bottom,MD_VEG
+F305,210616_Nettle_M2P_05,Nettle ,7:15:11,48.933246,-125.244215,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,500,2,Medium,H,2,Medium bottom,MD_MIX
+F306,210616_Nettle_M2P_05,Nettle ,7:15:18,48.933346,-125.244231,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,500,2,Medium,H,2,medium water column,MD_WAT
+F307,210616_Nettle_M2P_05,Nettle ,7:15:28,48.933306,-125.244364,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,1000,3,Large,H,2,medium water column,MD_WAT
+F308,210616_Nettle_M2P_05,Nettle ,7:15:32,48.933217,-125.244368,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,500,2,Medium,H,2,medium water column,MD_WAT
+F309,210616_Nettle_M2P_05,Nettle ,7:15:35,48.933151,-125.244371,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,300,2,Medium,H,2,light water column,LT_WAT
+F310,210616_Nettle_M2P_05,Nettle ,7:16:17,48.933248,-125.244671,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,200,1,Small,L,1,Light water column,LT_WAT
+F311,210616_Nettle_M2P_05,Nettle ,7:16:26,48.933292,-125.244827,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,80,1,Small,H,2,light sand bottom,LT_SAND
+F312,210616_Nettle_M2P_05,Nettle ,7:17:00,48.933363,-125.244961,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,50,1,Small,H,2,medium bottom,MD_MIX
+F313,210616_Nettle_M2P_05,Nettle ,7:20:30,48.934404,-125.246281,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,300,2,Medium,L,1,light bottom,LT_SAND
+F314,210616_Nettle_M2P_05,Nettle ,7:20:35,48.934462,-125.246376,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,300,2,Medium,H,2,medium light and dark mixed rock sand bottom,MIX_MIX
+F315,210616_Nettle_M2P_05,Nettle ,7:21:13,48.934507,-125.246584,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,300,2,Medium,L,1,Mixed medium bottom,MIX_MIX
+F316,210616_Nettle_M2P_05,Nettle ,7:21:38,48.934397,-125.246736,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,30,1,Small,H,2,light sand bottom,LT_SAND
+F317,210616_Nettle_M2P_05,Nettle ,7:21:46,48.934489,-125.246881,7,0.2,2,4.1,16.8,73.4,2.3,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F318,210616_Nettle_M2P_05,Nettle ,7:22:17,48.934572,-125.247185,7,0.2,1,4.1,16.8,73.4,2.3,H,3,H,20,1,Small,H,2,light sand bottom,LT_SAND
+F319,210616_Nettle_M2P_06,Nettle ,8:39:35,48.936625,-125.249267,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,70,1,Small,L,1,Light water column,LT_WAT
+F320,210616_Nettle_M2P_06,Nettle ,8:39:39,48.936579,-125.249147,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,L,1,Light water column,LT_WAT
+F321,210616_Nettle_M2P_06,Nettle ,8:39:45,48.936476,-125.249051,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,L,1,Light water column,LT_WAT
+F322,210616_Nettle_M2P_06,Nettle ,8:39:49,48.936397,-125.248976,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,H,2,Light water column,LT_WAT
+F323,210616_Nettle_M2P_06,Nettle ,8:39:53,48.936309,-125.248893,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,H,2,Light water column,LT_WAT
+F324,210616_Nettle_M2P_06,Nettle ,8:39:57,48.936224,-125.248813,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,60,1,Small,H,2,Light water column,LT_WAT
+F325,210616_Nettle_M2P_06,Nettle ,8:40:01,48.936135,-125.248731,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,H,2,Light water column,LT_WAT
+F326,210616_Nettle_M2P_06,Nettle ,8:40:07,48.936014,-125.248617,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,H,2,Light water column,LT_WAT
+F327,210616_Nettle_M2P_06,Nettle ,8:40:28,48.935592,-125.248242,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,H,2,Light water column,LT_WAT
+F328,210616_Nettle_M2P_06,Nettle ,8:40:31,48.935521,-125.248183,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,21,1,Small,L,1,Medium eelgrass,MD_VEG
+F329,210616_Nettle_M2P_06,Nettle ,8:41:14,48.934721,-125.247224,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,10,1,Small,H,2,light sand bottom,LT_SAND
+F330,210616_Nettle_M2P_06,Nettle ,8:41:18,48.934653,-125.247121,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,5,1,Small,H,2,light sand bottom,LT_SAND
+F331,210616_Nettle_M2P_06,Nettle ,8:41:30,48.934441,-125.246791,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,15,1,Small,H,2,light sand bottom,LT_SAND
+F332,210616_Nettle_M2P_06,Nettle ,8:41:34,48.934369,-125.246681,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,H,2,light sand bottom,LT_SAND
+F333,210616_Nettle_M2P_06,Nettle ,8:41:55,48.934004,-125.246116,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium eelgrass,MD_VEG
+F334,210616_Nettle_M2P_06,Nettle ,8:41:59,48.933931,-125.246002,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium eelgrass,MD_VEG
+F335,210616_Nettle_M2P_06,Nettle ,8:42:03,48.933858,-125.245891,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium eelgrass,MD_VEG
+F336,210616_Nettle_M2P_06,Nettle ,8:42:07,48.933789,-125.245783,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium eelgrass,MD_VEG
+F337,210616_Nettle_M2P_06,Nettle ,8:42:11,48.933715,-125.245669,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,60,1,Small,L,1,Medium eelgrass,MD_VEG
+F338,210616_Nettle_M2P_06,Nettle ,8:42:15,48.933647,-125.245566,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,50,1,Small,L,1,Medium eelgrass,MD_VEG
+F339,210616_Nettle_M2P_06,Nettle ,8:42:19,48.933573,-125.245451,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,60,1,Small,H,2,light water column,LT_WAT
+F340,210616_Nettle_M2P_06,Nettle ,8:42:25,48.933527,-125.245332,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,light water column,LT_WAT
+F341,210616_Nettle_M2P_06,Nettle ,8:42:29,48.933471,-125.245197,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,L,1,light water column,LT_WAT
+F342,210616_Nettle_M2P_06,Nettle ,8:42:33,48.933419,-125.245065,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,H,2,light mixed bottom,LT_MIX
+F343,210616_Nettle_M2P_06,Nettle ,8:42:37,48.933359,-125.244915,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,60,1,Small,H,2,light water column,LT_WAT
+F344,210616_Nettle_M2P_06,Nettle ,8:42:41,48.933315,-125.244805,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,60,1,Small,H,2,light water column,LT_WAT
+F345,210616_Nettle_M2P_06,Nettle ,8:42:47,48.933236,-125.244607,7.4,0.1,1,3.2,30.6,88.6,1.4,L,1,L/M,100,1,Small,L,1,Medium eelgrass bottom (Reason for M),MD_VEG
+F346,210616_Nettle_M2P_06,Nettle ,8:42:51,48.933182,-125.244471,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,10,1,Small,H,2,Medium mixed bottom,MD_MIX
+F347,210616_Nettle_M2P_06,Nettle ,8:42:54,48.933142,-125.244372,7.4,0.1,0,3.2,30.6,88.6,1.4,M,2,L/M,60,1,Small,L,1,Medium eelgrass,MD_VEG
+F348,210616_Nettle_M2P_06,Nettle ,8:42:57,48.933104,-125.244278,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,L,1,Medium water column,MD_WAT
+F349,210616_Nettle_M2P_06,Nettle ,8:43:11,48.933107,-125.243992,7.4,0.1,0,3.2,30.6,88.6,1.4,M,2,L/M,50,1,Small,L,1,Medium eelgrass,MD_VEG
+F350,210616_Nettle_M2P_06,Nettle ,8:43:14,48.933115,-125.244023,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F351,210616_Nettle_M2P_06,Nettle ,8:43:21,48.933216,-125.244269,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,L,1,Medium water column,MD_WAT
+F352,210616_Nettle_M2P_06,Nettle ,8:43:27,48.933291,-125.244456,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,40,1,Small,H,2,Medium water column,MD_WAT
+F353,210616_Nettle_M2P_06,Nettle ,8:43:30,48.933331,-125.244561,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F354,210616_Nettle_M2P_06,Nettle ,8:43:37,48.933426,-125.244798,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,50,1,Small,H,2,Medium water column,MD_WAT
+F355,210616_Nettle_M2P_06,Nettle ,8:43:46,48.933541,-125.245083,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,H,2,Medium water column,MD_WAT
+F356,210616_Nettle_M2P_06,Nettle ,8:43:54,48.933645,-125.245341,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,H,2,Medium water column,MD_WAT
+F357,210616_Nettle_M2P_06,Nettle ,8:43:59,48.933693,-125.245422,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F358,210616_Nettle_M2P_06,Nettle ,8:44:05,48.933802,-125.245591,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,100,1,Small,H,2,Medium water column,MD_WAT
+F359,210616_Nettle_M2P_06,Nettle ,8:44:09,48.933874,-125.245703,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,10,1,Small,H,2,Medium water column,MD_WAT
+F360,210616_Nettle_M2P_06,Nettle ,8:44:38,48.934382,-125.246489,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,1000,3,Large,L,1,medium eelgrass,MD_VEG
+F361,210616_Nettle_M2P_06,Nettle ,8:45:14,48.935021,-125.247481,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium eelgrass,MD_VEG
+F362,210616_Nettle_M2P_06,Nettle ,8:45:26,48.935195,-125.247751,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,10,1,Small,L,1,medium eelgrass,MD_VEG
+F363,210616_Nettle_M2P_06,Nettle ,8:45:35,48.935386,-125.247897,7.4,0.1,1,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium water column,MD_WAT
+F364,210616_Nettle_M2P_06,Nettle ,8:45:40,48.935507,-125.247988,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,L,1,Medium water column,MD_WAT
+F365,210616_Nettle_M2P_06,Nettle ,8:45:43,48.935569,-125.248038,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,30,1,Small,L,1,Medium water column,MD_WAT
+F366,210616_Nettle_M2P_06,Nettle ,8:47:02,48.936957,-125.249875,7.4,0.1,0,3.2,30.6,88.6,1.4,H,3,H,20,1,Small,L,1,Medium mixed bottom,MD_MIX
+F367,210616_Nettle_M2P_07,Nettle ,8:49:18,48.935374,-125.247713,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,40,1,Small,L,1,medium eelgrass ,MD_VEG
+F368,210616_Nettle_M2P_07,Nettle ,8:49:22,48.935284,-125.247639,7.4,0.1,0,4.2,31.9,90.1,1.4,H,3,H,30,1,Small,L,1,Medium water column,MD_WAT
+F369,210616_Nettle_M2P_07,Nettle ,8:49:26,48.935231,-125.247594,7.4,0.1,0,4.2,31.9,90.1,1.4,H,3,H,40,1,Small,L,1,medium eelgrass,MD_VEG
+F370,210616_Nettle_M2P_07,Nettle ,8:49:38,48.935025,-125.247274,7.4,0.1,0,4.2,31.9,90.1,1.4,H,3,H,40,1,Small,H,2,light sand bottom,LT_SAND
+F371,210616_Nettle_M2P_07,Nettle ,8:50:19,48.934317,-125.246171,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,50,1,Small,L,1,"light water colu,",LT_WAT
+F372,210616_Nettle_M2P_07,Nettle ,8:50:23,48.934248,-125.246064,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,50,1,Small,L,1,"light water colu,",LT_WAT
+F373,210616_Nettle_M2P_07,Nettle ,8:50:27,48.934166,-125.245939,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,50,1,Small,L,1,"light water colu,",LT_WAT
+F374,210616_Nettle_M2P_07,Nettle ,8:50:53,48.933735,-125.245271,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,20,1,Small,L,1,"light water colu,",LT_WAT
+F375,210616_Nettle_M2P_07,Nettle ,8:50:56,48.933701,-125.245181,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,30,1,Small,H,2,"light water colu,",LT_WAT
+F376,210616_Nettle_M2P_07,Nettle ,8:51:09,48.933534,-125.244781,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,100,1,Small,H,2,light water column,LT_WAT
+F377,210616_Nettle_M2P_07,Nettle ,8:51:12,48.933493,-125.244681,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,200,1,Small,H,2,light water column,LT_WAT
+F378,210616_Nettle_M2P_07,Nettle ,8:51:33,48.933304,-125.244118,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,300,2,Medium,L,1,light water column,LT_WAT
+F379,210616_Nettle_M2P_07,Nettle ,8:52:42,48.934301,-125.245933,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,50,1,Small,L,1,light water column,LT_WAT
+F380,210616_Nettle_M2P_07,Nettle ,8:52:47,48.934376,-125.246051,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,60,1,Small,L,1,medium water column,MD_WAT
+F381,210616_Nettle_M2P_07,Nettle ,8:52:51,48.934447,-125.246164,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,100,1,Small,H,2,mixed medium bottom,MIX_MIX
+F382,210616_Nettle_M2P_07,Nettle ,8:52:54,48.934514,-125.246268,7.4,0.1,1,4.2,31.9,90.1,1.4,H,3,H,50,1,Small,H,2,Medium mixed bottom,MD_MIX
+F383,210616_Nettle_M2P_07,Nettle ,8:53:25,48.935052,-125.247105,7.4,0.1,0,4.2,31.9,90.1,1.4,H,3,H,10,1,Small,H,2,light sand bottom,LT_SAND
+F384,210616_Nettle_M2P_07,Nettle ,8:53:32,48.935169,-125.247291,7.4,0.1,0,4.2,31.9,90.1,1.4,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F385,210616_Nettle_M2P_08,Nettle ,9:04:20,48.933662,-125.245598,7.4,0.15,2,5.9,34,92.6,1.4,M,2,L/M,10,1,Small,L,1,Medium eelgrass,MD_VEG
+F386,210616_Nettle_M2P_08,Nettle ,9:04:38,48.933833,-125.245545,7.4,0.15,2,5.9,34,92.6,1.4,H,3,H,300,2,Medium,L,1,Medium water column,MD_WAT
+F387,210616_Nettle_M2P_08,Nettle ,9:04:54,48.933868,-125.245389,7.4,0.15,2,5.9,34,92.6,1.4,H,3,H,500,2,Medium,L,1,Medium water column,MD_WAT
+F388,210616_Nettle_M2P_08,Nettle ,9:04:59,48.933782,-125.245374,7.4,0.15,2,5.9,34,92.6,1.4,H,3,H,1000,3,Large,L,1,Medium water column,MD_WAT
+F389,210616_Nettle_M2P_08,Nettle ,9:05:32,48.933738,-125.245225,7.4,0.15,2,5.9,34,92.6,1.4,H,3,H,1000,3,Large,L,1,Medium water column,MD_WAT
+F391,210616_Nettle_M2P_09,Nettle ,9:09:07,48.933149,-125.244067,7.4,0.15,2,5.4,35.6,94.5,1.4,M,2,L/M,10,1,Small,L,1,medium mixed bottom,MD_MIX
+F392,210616_Nettle_M2P_09,Nettle ,9:09:23,48.933066,-125.244221,7.4,0.15,2,5.4,35.6,94.5,1.4,M,2,L/M,15,1,Small,L,1,medium mixed bottom,MD_MIX
+F393,210616_Nettle_M2P_09,Nettle ,9:09:57,48.933131,-125.244372,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,15,1,Small,L,1,medium mixed bottom,MD_MIX
+F394,210616_Nettle_M2P_09,Nettle ,9:10:00,48.933161,-125.244482,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,medium mixed bottom,MD_MIX
+F395,210616_Nettle_M2P_09,Nettle ,9:10:05,48.933187,-125.244521,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,medium mixed bottom,MD_MIX
+F396,210616_Nettle_M2P_09,Nettle ,9:10:36,48.933233,-125.244671,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,medium mixed bottom,MD_MIX
+F397,210616_Nettle_M2P_09,Nettle ,9:10:46,48.933292,-125.244824,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,Medium water column,MD_WAT
+F398,210616_Nettle_M2P_09,Nettle ,9:11:28,48.933413,-125.245111,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,300,2,Medium,L,1,medium mixed bottom,MD_MIX
+F399,210616_Nettle_M2P_09,Nettle ,9:11:38,48.933655,-125.245104,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,500,2,Medium,L,1,Medium water column,MD_WAT
+F400,210616_Nettle_M2P_09,Nettle ,9:11:50,48.933761,-125.245252,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,200,1,Small,L,1,light water column,LT_WAT
+F401,210616_Nettle_M2P_09,Nettle ,9:12:04,48.933481,-125.245261,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,15,1,Small,H,2,light sand bottom,LT_SAND
+F402,210616_Nettle_M2P_09,Nettle ,9:12:40,48.933799,-125.245554,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,60,1,Small,H,2,Medium water column,MD_WAT
+F403,210616_Nettle_M2P_09,Nettle ,9:12:56,48.933711,-125.245706,7.4,0.15,2,5.4,35.6,94.5,1.4,M,2,L/M,30,1,Small,L,1,light water column,LT_WAT
+F404,210616_Nettle_M2P_09,Nettle ,9:13:03,48.933834,-125.245698,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,20,1,Small,L,1,Medium water column,MD_WAT
+F405,210616_Nettle_M2P_09,Nettle ,9:13:09,48.933977,-125.245694,7.4,0.15,2,5.4,35.6,94.5,1.4,M,2,L/M,50,1,Small,L,1,Medium water column,MD_WAT
+F406,210616_Nettle_M2P_09,Nettle ,9:13:12,48.934033,-125.245692,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,200,1,Small,L,1,Medium water column,MD_WAT
+F407,210616_Nettle_M2P_09,Nettle ,9:13:16,48.934071,-125.245763,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,300,2,Medium,L,1,Medium water column,MD_WAT
+F408,210616_Nettle_M2P_09,Nettle ,9:13:19,48.934122,-125.245844,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,Medium water column,MD_WAT
+F409,210616_Nettle_M2P_09,Nettle ,9:13:41,48.933861,-125.245931,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,15,1,Small,L,1,medium eelgrass,MD_VEG
+F410,210616_Nettle_M2P_09,Nettle ,9:13:50,48.934009,-125.245995,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,medium eelgrass,MD_VEG
+F411,210616_Nettle_M2P_09,Nettle ,9:13:59,48.934223,-125.245983,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,10,1,Small,L,1,Medium water column,MD_WAT
+F412,210616_Nettle_M2P_09,Nettle ,9:14:07,48.934309,-125.246143,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,medium eelgrass,MD_VEG
+F413,210616_Nettle_M2P_09,Nettle ,9:14:23,48.933984,-125.246142,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,Medium eelgrass,MD_VEG
+F414,210616_Nettle_M2P_09,Nettle ,9:14:31,48.934068,-125.246258,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,medium eelgrass,MD_VEG
+F415,210616_Nettle_M2P_09,Nettle ,9:14:38,48.934176,-125.246291,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,10,1,Small,L,1,Medium eelgrass,MD_VEG
+F416,210616_Nettle_M2P_09,Nettle ,9:14:43,48.934285,-125.246286,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,H,2,light mixed bottom,LT_MIX
+F417,210616_Nettle_M2P_09,Nettle ,9:14:47,48.934398,-125.246283,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,300,2,Medium,L,1,medium mixed bottom,MD_MIX
+F418,210616_Nettle_M2P_09,Nettle ,9:14:51,48.934422,-125.246317,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,light mixed bottom,LT_MIX
+F419,210616_Nettle_M2P_09,Nettle ,9:15:11,48.934197,-125.246442,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,L,1,Light eelgrass,MD_VEG
+F420,210616_Nettle_M2P_09,Nettle ,9:15:27,48.934401,-125.246589,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,40,1,Small,L,1,light mixed bottom ,LT_MIX
+F421,210616_Nettle_M2P_09,Nettle ,9:15:53,48.934381,-125.246732,7.4,0.15,2,5.4,35.6,94.5,1.4,H,3,H,30,1,Small,H,2,Light sand,LT_SAND
+F427,210616_Secchi_M2P_05,Nettle ,11:16:04,48.935146,-125.245461,5.4,0.25,3,2.9,54.3,124.1,0.7,H,3,H,1000,3,Large,H,2,light water column,LT_WAT
+F431,210616_Nettle_M2P_10,Nettle ,11:19:31,48.936968,-125.250224,5.4,0.25,3,2.9,56.2,128.7,0.7,H,3,H,300,2,Medium,H,2,Light water colum,LT_WAT
+F432,210616_Nettle_M2P_10,Nettle ,11:19:36,48.936918,-125.250077,5.4,0.25,5,2.9,56.2,128.7,0.7,H,3,H,60,1,Small,H,2,Light water colum,LT_WAT
+F433,210616_Nettle_M2P_10,Nettle ,11:19:40,48.936871,-125.249941,5.4,0.25,5,2.9,56.2,128.7,0.7,H,3,H,100,1,Small,H,2,Light water colum,LT_WAT
+F434,210616_Nettle_M2P_10,Nettle ,11:19:58,48.936657,-125.249353,5.4,0.25,5,2.9,56.2,128.7,0.7,H,3,H,30,1,Small,L,1,light water column,LT_WAT
+F435,210616_Nettle_M2P_10,Nettle ,11:20:19,48.936298,-125.248882,5.4,0.25,5,2.9,56.2,128.7,0.7,H,3,H,30,1,Small,L,1,light water column,LT_WAT
+F436,210616_Nettle_M2P_10,Nettle ,11:22:05,48.934271,-125.246531,5.4,0.25,5,2.9,56.2,128.7,0.7,H,3,H,30,1,Small,H,2,light sand,LT_SAND
+F437,210616_Nettle_M2P_11,Nettle ,11:38:51,48.933218,-125.244064,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,1000,3,Large,L,1,light water column,LT_WAT
+F438,210616_Nettle_M2P_11,Nettle ,11:38:58,48.933046,-125.244072,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,15,1,Small,L,1,medium eelgrass,MD_VEG
+F439,210616_Nettle_M2P_11,Nettle ,11:39:12,48.933111,-125.244222,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,30,1,Small,L,1,medium eelgrass,MD_VEG
+F440,210616_Nettle_M2P_11,Nettle ,11:40:26,48.933229,-125.244672,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,30,1,Small,L,1,medium eelgrass,MD_VEG
+F441,210616_Nettle_M2P_11,Nettle ,11:41:16,48.933413,-125.245117,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,30,1,Small,L,1,medium eelgrass,MD_VEG
+F442,210616_Nettle_M2P_11,Nettle ,11:42:05,48.933621,-125.245407,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,50,1,Small,L,1,medium water colum,MD_WAT
+F443,210616_Nettle_M2P_11,Nettle ,11:42:54,48.933846,-125.245698,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,500,2,Medium,L,1,Light water colum,LT_WAT
+F444,210616_Nettle_M2P_11,Nettle ,11:43:09,48.934121,-125.245843,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,100,1,Small,H,2,light water column,LT_WAT
+F445,210616_Nettle_M2P_11,Nettle ,11:43:22,48.933891,-125.245851,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,500,2,Medium,L,1,light water column,LT_WAT
+F446,210616_Nettle_M2P_11,Nettle ,11:43:36,48.933901,-125.246002,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,1000,3,Large,L,1,medium mixed bottom,MD_MIX
+F447,210616_Nettle_M2P_11,Nettle ,11:43:41,48.934008,-125.245994,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,500,2,Medium,L,1,light water column,LT_WAT
+F448,210616_Nettle_M2P_11,Nettle ,11:43:44,48.934081,-125.245991,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,500,2,Medium,L,1,medium eelgrass,MD_VEG
+F449,210616_Nettle_M2P_11,Nettle ,11:43:49,48.934196,-125.245985,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,30,1,Small,L,1,light water column,LT_WAT
+F450,210616_Nettle_M2P_11,Nettle ,11:43:55,48.934274,-125.246081,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,50,1,Small,L,1,light water column,LT_WAT
+F451,210616_Nettle_M2P_11,Nettle ,11:44:01,48.934308,-125.246141,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,70,1,Small,L,1,light water column,LT_WAT
+F452,210616_Nettle_M2P_11,Nettle ,11:44:11,48.934076,-125.246141,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,300,2,Medium,L,1,medium eelgrass,MD_VEG
+F453,210616_Nettle_M2P_11,Nettle ,11:44:14,48.933893,-125.246141,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,300,2,Medium,L,1,medium eelgrass,MD_VEG
+F454,210616_Nettle_M2P_11,Nettle ,11:44:34,48.934276,-125.246287,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,100,1,Small,L,1,mixed medium bottom,MIX_MIX
+F455,210616_Nettle_M2P_11,Nettle ,11:44:48,48.934503,-125.246436,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,40,1,Small,L,1,Medium mixed (light sand and dark rocks),MIX_MIX
+F456,210616_Nettle_M2P_11,Nettle ,11:44:58,48.934319,-125.246437,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,50,1,Small,L,1,Medium mixed (light sand and dark rocks),MIX_MIX
+F457,210616_Nettle_M2P_11,Nettle ,11:45:02,48.934222,-125.246441,5.4,0.15,5,4.3,57.8,133.3,0.7,H,3,H,20,1,Small,L,1,Medium mixed (light sand and dark rocks),MIX_MIX
+F458,210616_Nettle_M2P_12,Nettle ,11:47:37,48.935056,-125.247258,5.4,0.15,0,8.2,58.8,136.8,0.7,H,3,H,30,1,Small,H,2,Light sand,LT_SAND
+F459,210616_Nettle_M2P_12,Nettle ,11:48:29,48.934979,-125.247551,5.4,0.15,0,8.2,58.8,136.8,0.7,H,3,H,20,1,Small,L,1,Medium eelgrass,MD_VEG
+F460,210616_Nettle_M2P_12,Nettle ,11:49:09,48.935511,-125.247805,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,10,1,Small,H,2,Light water column ,LT_WAT
+F461,210616_Nettle_M2P_12,Nettle ,11:49:11,48.935541,-125.247833,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,300,2,Medium,H,2,Light water column,LT_WAT
+F462,210616_Nettle_M2P_12,Nettle ,11:49:32,48.935093,-125.247852,5.4,0.15,0,8.2,58.8,136.8,0.7,H,3,H,10,1,Small,H,2,Light sand,LT_SAND
+F463,210616_Nettle_M2P_12,Nettle ,11:52:40,48.936183,-125.248716,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,10,1,Small,L,1,Medium water column,MD_WAT
+F464,210616_Nettle_M2P_12,Nettle ,11:52:44,48.936073,-125.248721,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,70,1,Small,L,1,Medium water column,MD_WAT
+F465,210616_Nettle_M2P_12,Nettle ,11:53:43,48.936443,-125.249007,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,30,1,Small,L,1,Medium water column,MD_WAT
+F466,210616_Nettle_M2P_12,Nettle ,11:53:47,48.936351,-125.249012,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,40,1,Small,L,1,Medium water column ,MD_WAT
+F467,210616_Nettle_M2P_12,Nettle ,11:53:58,48.936491,-125.249152,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,100,1,Small,L,1,Medium water column ,MD_WAT
+F468,210616_Nettle_M2P_12,Nettle ,11:54:44,48.936648,-125.249419,5.4,0.15,2,8.2,58.8,136.8,0.7,H,3,H,50,1,Small,L,1,Light water column,LT_WAT
+F469,210616_FishFinding_M2P_02,Nettle ,10:34:17,48.928251,-125.250006,5.5,0.1,2,7.2,48.4,112.5,0.7,H,3,H,1000,3,Large,H,2,Medium water column,MD_WAT
+F471,210616_FishFinding_M2P_03,Nettle,11:57:01,48.935073,-125.245288,5.4,0.15,2,4.8,59.4,138.8,0.7,M,2,L/M,20,1,Small,L,1,medium water ,MD_WAT
+F472,210902_WilbyShoals_P4_01,Wilby Shoals,55:11:00,50.004666,-125.149576,10.3,0,2,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F473,210902_WilbyShoals_P4_01,Wilby Shoals,55:15:00,50.004568,-125.149741,10.3,0,0,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F474,210902_WilbyShoals_P4_01,Wilby Shoals,55:19:00,50.004467,-125.149912,10.3,0,0,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F475,210902_WilbyShoals_P4_01,Wilby Shoals,56:12:00,50.003117,-125.15219,10.3,0,0,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F476,210902_WilbyShoals_P4_01,Wilby Shoals,56:18:00,50.002954,-125.15246,10.3,0,0,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F477,210902_WilbyShoals_P4_01,Wilby Shoals,56:22:00,50.002839,-125.152656,10.3,0,0,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F478,210902_WilbyShoals_P4_01,Wilby Shoals,56:26:00,50.002753,-125.152802,10.3,0,0,3.4,21,103.6,1.5,H,3,H,10000,3,Large,H,2,medium water colum,MD_WAT
+F480,210902_Marina_P4_02,Marina Island,15:23,50.062785,-125.074878,5.5,0,5,5.2,23.5,106.9,1.5,M,2,L/M,50,1,Small,L,1,Dark seaweed (ulva) bottom,DK_VEG
+F481,210902_Marina_P4_02,Marina Island,20:16,50.063336,-125.075535,5.5,0,5,5.2,23.5,106.9,1.5,H,3,H,200,1,Small,H,2,Dark bottom (seaweed),DK_VEG
+F482,210902_Marina_P4_02,Marina Island,23:14,50.064273,-125.074931,5.5,0,5,5.2,23.5,106.9,1.5,H,3,H,100,1,Small,H,2,Dark bottom (seaweed),DK_VEG
+F487,210903_WilbyShoals_P4_03,Wilby Shoals,53:45:00,49.996471,-125.156755,8,0.95,0,5.3,20.8,103.9,1.5,H,3,H,20,1,Small,H,2,Dark water column,DK_WAT
+F488,210903_WilbyShoals_P4_03,Wilby Shoals,58:13:00,50.002317,-125.150789,8,0.95,0,5.3,20.8,103.9,1.5,H,3,H,30,1,Small,H,2,Dark water column,DK_WAT
+F489,210903_Marina_P4_02 ,Marina Island,45:02:00,50.063242,-125.074555,5.9,1,0,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F490,210903_Marina_P4_02 ,Marina Island,45:36:00,50.062946,-125.075038,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,30,1,Small,H,2,dark seaweed (ulva) bottom,DK_VEG
+F491,210903_Marina_P4_02 ,Marina Island,45:40:00,50.063031,-125.074951,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F492,210903_Marina_P4_02,Marina Island,47:13:00,50.063304,-125.074859,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F493,210903_Marina_P4_02 ,Marina Island,47:17:00,50.063216,-125.074949,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F494,210903_Marina_P4_02 ,Marina Island,47:53:00,50.063229,-125.075119,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F495,210903_Marina_P4_02 ,Marina Island,47:57:00,50.063328,-125.075018,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F496,210903_Marina_P4_02 ,Marina Island,48:04:00,50.06346,-125.074884,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F497,210903_Marina_P4_02 ,Marina Island,49:19:00,50.063561,-125.074963,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F498,210903_Marina_P4_02 ,Marina Island,49:23:00,50.063481,-125.075046,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F499,210903_Marina_P4_02 ,Marina Island,49:27:00,50.063399,-125.07513,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F500,210903_Marina_P4_02 ,Marina Island,50:15:00,50.063519,-125.075191,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F501,210903_Marina_P4_02 ,Marina Island,50:17:00,50.063571,-125.075137,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F502,210903_Marina_P4_02 ,Marina Island,50:21:00,50.063656,-125.07505,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F503,210903_Marina_P4_02 ,Marina Island,51:32:00,50.063697,-125.075192,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F504,210903_Marina_P4_02 ,Marina Island,51:36:00,50.063614,-125.075278,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F505,210903_Marina_P4_02 ,Marina Island,51:39:00,50.063542,-125.075351,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F506,210903_Marina_P4_02 ,Marina Island,52:19:00,50.063716,-125.075356,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F507,210903_Marina_P4_02 ,Marina Island,53:39:00,50.063769,-125.075486,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,10000,3,Large,H,2,light sand,LT_SAND
+F508,210903_Marina_P4_02 ,Marina Island,54:23:00,50.063928,-125.075507,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F509,210903_Marina_P4_02 ,Marina Island,56:31:00,50.064243,-125.075555,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,1000,3,Large,H,2,light sand,LT_SAND
+F510,210903_Marina_P4_02 ,Marina Island,56:35:00,50.064313,-125.075484,5.9,1,1,2.3,28.8,115.4,1.3,H,3,H,100,1,Small,H,2,light sand,LT_SAND
+F516,210913_DeepBay_P4_01,Deep Bay,,,,3.8,0.8,0,1.4,32,128.2,3.7,H,3,H,1000,3,Large,H,2,Medium water column,MD_WAT
+F517,210913_DeepBay_P4_01,Deep Bay,,,,3.8,0.8,0,1.4,32,128.2,3.7,H,3,H,1000,3,Large,H,2,Dark watercolumn,DK_WAT
+F518,210913_DeepBay_P4_01,Deep Bay,,,,3.8,0.8,0,1.4,32,128.2,3.7,H,3,H,500,2,Medium,H,2,Dark watercolumn,DK_WAT
+F519,210913_DeepBay_P4_01,Deep Bay,,,,3.8,0.8,0,1.4,32,128.2,3.7,M,2,L/M,10,1,Small,L,1,Dark watercolumn,DK_WAT
+F520,210913_DeepBay_P4_01,Deep Bay,,,,3.8,0.8,0,1.4,32,128.2,3.7,H,3,H,500,2,Medium,H,2,Dark watercolumn,DK_WAT
+F521,210913_DeepBay_P4_02,Deep Bay,,,,3.8,0.8,0,0,34.5,133.5,3.7,H,3,H,50,1,Small,L,1,Medium water column,MD_WAT
+F524,210921_Nettle_M2P_02,Nettle,7:53:12,48.934347,-125.246171,3.8,0.25,1,3.8,6.4,96.5,0.7,L,1,L/M,100,1,Small,L,1,Medium watercolum/bottom,MD_WAT
+F525,210921_HandN_M2P_01,Hand North,8:42:12,48.952998,-125.317785,4.9,0.75,0,0,15.1,107.3,1,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F526,210921_HandN_M2P_01,Hand North,8:42:49,48.952909,-125.318013,4.9,0.75,0,0,15.1,107.3,1,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F527,210921_HandN_M2P_01,Hand North,8:42:52,48.952993,-125.317956,4.9,0.75,0,0,15.1,107.3,1,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F528,210921_HandN_M2P_01,Hand North,8:42:56,48.953069,-125.317907,4.9,0.75,0,0,15.1,107.3,1,H,3,H,50,1,Small,H,2,light sand bottom,LT_SAND
+F529,210921_HandN_M2P_01,Hand North,8:43:24,48.953145,-125.318014,4.9,0.75,0,0,15.1,107.3,1,H,3,H,100,1,Small,H,2,light sand bottom,LT_SAND
+F530,210921_HandN_M2P_01,Hand North,8:44:33,48.953168,-125.318176,4.9,0.75,0,0,15.1,107.3,1,H,3,H,100,1,Small,H,2,light sand bottom,LT_SAND
+F531,210921_HandN_M2P_01,Hand North,8:44:51,48.953241,-125.318284,4.9,0.75,0,0,15.1,107.3,1,H,3,H,100,1,Small,H,2,light sand bottom,LT_SAND
+F533,210921_Trickett_M2P_01,Trickett,9:24:21,48.907777,-125.365954,6.6,0.6,0,1.6,21.3,115.7,1,H,3,H,70,1,Small,H,2,Dark seaweed,DK_VEG
+F534,210921_Trickett_M2P_01,Trickett,9:24:55,48.907843,-125.366093,6.6,0.6,0,1.6,21.3,115.7,1,H,3,H,100,1,Small,H,2,Dark seaweed,DK_VEG
+F535,210921_Trickett_M2P_01,Trickett,9:24:59,48.907928,-125.366036,6.6,0.6,0,1.6,21.3,115.7,1,H,3,H,50,1,Small,H,2,Dark seaweed,DK_VEG
+F536,210921_Trickett_M2P_01,Trickett,9:25:50,48.907977,-125.366166,6.6,0.6,0,1.6,21.3,115.7,1,H,3,H,50,1,Small,H,2,Dark seaweed,DK_VEG
+F537,210921_Trickett_M2P_01,Trickett,9:25:54,48.907871,-125.366236,6.6,0.6,0,1.6,21.3,115.7,1,H,3,H,500,2,Medium,L,1,Medium water column,MD_WAT
+F538,210921_Trickett_M2P_01,Trickett,9:26:40,48.908134,-125.366228,6.6,0.6,0,1.6,21.3,115.7,1,M,2,L/M,100,1,Small,L,1,mixed light and dark bottom,MIX_MIX
+F539,210921_Clarke_M2P_01,Clarke,9:55:33,48.892939,-125.377235,5.8,0.65,0,2.8,26.2,123.3,1.6,H,3,H,15,1,Small,H,2,light sand,LT_SAND
+F540,210921_Clarke_M2P_01,Clarke,9:58:19,48.892791,-125.376571,5.8,0.65,0,2.8,26.2,123.3,1.6,H,3,H,20,1,Small,H,2,light sand,LT_SAND
+F541,210921_Clarke_M2P_01,Clarke,9:58:22,48.892711,-125.376615,5.8,0.65,0,2.8,26.2,123.3,1.6,H,3,H,15,1,Small,H,2,Light sand,LT_SAND
+F542,210921_Clarke_M2P_01,Clarke,9:59:24,48.892675,-125.374483,5.8,0.65,0,2.8,26.2,123.3,1.6,H,3,H,10,1,Small,L,1,light sand,LT_SAND
+F543,210921_Clarke_M2P_01,Clarke,10:02:06,48.892019,-125.376258,5.8,0.65,0,2.8,26.2,123.3,1.6,H,3,H,200,1,Small,H,2,Light sand,LT_SAND
+F544,210921_Clarke_M2P_02,Clarke,10:12:29,48.893704,-125.374697,5.8,0.65,1,3.9,27.4,125.5,1.6,H,3,H,100,1,Small,L,1,mixed light and dark bottom,MIX_MIX
+F545,210921_Dodd_M2P_01,Dodd,10:51:36,48.924714,-125.339289,5.4,0.95,1,0,33,137.1,2.3,H,3,H,50,1,Small,H,2,Light sand,LT_SAND
+F546,210923_Effingham_M2P_01,Effingham,7:32:28,48.882968,-125.318494,7.8,0.9,2,2.6,2.7,93.3,1,M,2,L/M,20,1,Small,L,1,mixed light and dark bottom,MIX_MIX
+F547,210923_Camblain_M2P_01,Camblain,8:28:06,48.877797,-125.349495,7.4,0.99,0,0,12,104.5,1,H,3,H,100,1,Small,H,2,light sand,LT_SAND
+F550,210923_Benson_M2P_01,Benson,9:30:54,48.883134,-125.378448,8.4,1,2,3.4,21.4,117.2,1.3,H,3,H,30,1,Small,H,2,light sand bottom,LT_SAND
+F551,210923_Benson_M2P_01,Benson,9:33:22,48.883616,-125.378784,8.4,1,2,3.4,21.4,117.2,1.3,H,3,H,10,1,Small,H,2,light sand bottom,LT_SAND
+F552,210923_Clarke_M2P_01,Clarke,10:00:10,48.892879,-125.376681,6.4,1,0,0,25.9,124.9,1.3,H,3,H,5,1,Small,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F553,210923_Clarke_M2P_01,Clarke,10:00:24,48.893036,-125.376415,6.4,1,0,0,25.9,124.9,1.3,H,3,H,20,1,Small,L,1,medium sand bottom,MD_SAND
+F554,210923_Clarke_M2P_01,Clarke,10:00:34,48.892887,-125.376507,6.4,1,0,0,25.9,124.9,1.3,H,3,H,100,1,Small,H,2,medium sand bottom,MD_SAND
+F555,210923_Clarke_M2P_01,Clarke,10:00:42,48.892705,-125.376624,6.4,1,0,0,25.9,124.9,1.3,H,3,H,30,1,Small,H,2,medium sand bottom,MD_SAND
+F556,210923_Clarke_M2P_01,Clarke,10:01:47,48.892804,-125.376401,6.4,1,0,0,25.9,124.9,1.3,H,3,H,7,1,Small,L,1,medium sand bottom,MD_SAND
+F557,210923_Clarke_M2P_01,Clarke,10:03:28,48.892649,-125.376054,6.4,1,0,0,25.9,124.9,1.3,H,3,H,50,1,Small,L,1,medium sand bottom,MD_SAND
+F558,210923_Clarke_M2P_02,Clarke,10:07:45,48.893169,-125.376691,6.4,1,0,6.2,27,126.4,1.3,H,3,H,20,1,Small,L,1,medium sand bottom,MD_SAND
+F559,210923_Clarke_M2P_02,Clarke,10:08:04,48.893503,-125.376297,6.4,1,0,6.2,27,126.4,1.3,H,3,H,70,1,Small,L,1,medium sand bottom,MD_SAND
+F560,210923_Clarke_M2P_02,Clarke,10:08:34,48.893214,-125.376321,6.4,1,0,6.2,27,126.4,1.3,H,3,H,30,1,Small,L,1,medium sand bottom,MD_SAND
+F561,210923_Clarke_M2P_02,Clarke,10:08:39,48.893323,-125.376251,6.4,1,0,6.2,27,126.4,1.3,H,3,H,30,1,Small,L,1,medium sand bottom,MD_SAND
+F562,210923_Clarke_M2P_02,Clarke,10:08:43,48.893414,-125.376191,6.4,1,0,6.2,27,126.4,1.3,H,3,H,100,1,Small,L,1,medium sand bottom,MD_SAND
+F563,210923_Clarke_M2P_02,Clarke,10:09:29,48.893217,-125.376155,6.4,1,0,6.2,27,126.4,1.3,H,3,H,10,1,Small,L,1,medium sand bottom,MD_SAND
+F564,210923_Clarke_M2P_02,Clarke,10:10:02,48.893486,-125.375814,6.4,1,0,6.2,27,126.4,1.3,H,3,H,50,1,Small,L,1,medium sand bottom,MD_SAND
+F565,210923_Clarke_M2P_02,Clarke,10:10:11,48.893697,-125.375676,6.4,1,0,6.2,27,126.4,1.3,H,3,H,15,1,Small,L,1,medium sand bottom,MD_SAND
+F566,210923_Clarke_M2P_02,Clarke,10:10:44,48.893628,-125.375554,6.4,1,0,6.2,27,126.4,1.3,H,3,H,20,1,Small,L,1,medium sand,MD_SAND
+F567,210923_Clarke_M2P_02,Clarke,10:10:52,48.893438,-125.375677,6.4,1,0,6.2,27,126.4,1.3,H,3,H,30,1,Small,L,1,medium sand bottom,MD_SAND
+F568,210923_Clarke_M2P_02,Clarke,10:11:05,48.893144,-125.375868,6.4,1,1,6.2,27,126.4,1.3,M,2,L/M,20,1,Small,L,1,medium water colum,MD_WAT
+F569,210923_Trickett_M2P_01,Trickett,11:24:15,48.907012,-125.366384,5.7,1,2,6.7,35.2,145.1,1.8,M,2,L/M,50,1,Small,L,1,medium sand bottom,MD_SAND
+F570,210923_Trickett_M2P_01,Trickett,11:24:53,48.907006,-125.366946,5.7,1,2,6.7,35.2,145.1,1.8,H,3,H,300,2,Medium,H,2,light sand,LT_SAND
+F571,210923_Trickett_M2P_01,Trickett,11:28:16,48.907089,-125.366892,5.7,1,2,6.7,35.2,145.1,1.8,H,3,H,300,2,Medium,H,2,light sand,LT_SAND
+F572,210924_FishFinding_M2P_01,Trickett,7:20:42,48.905833,-125.366231,8.8,0.3,0,0,1.3,92.1,1.6,H,3,H,1000,3,Large,H,2,light sand bottom,LT_SAND
+F573,210924_Trickett_M2P_01,Trickett,7:29:38,48.906359,-125.366342,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,3,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F574,210924_Trickett_M2P_01,Trickett,7:30:01,48.906436,-125.366457,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,3,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F575,210924_Trickett_M2P_01,Trickett,7:30:04,48.906499,-125.366416,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,3,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F577,210924_Trickett_M2P_01,Trickett,7:31:10,48.906924,-125.366305,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,50,1,Small,H,2,light bottom,LT_SAND
+F579,210924_Trickett_M2P_01,Trickett,7:32:09,48.906403,-125.366808,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,200,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F580,210924_Trickett_M2P_01,Trickett,7:32:34,48.906961,-125.366442,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,300,2,Medium,H,2,light sand,LT_SAND
+F581,210924_Trickett_M2P_01,Trickett,7:33:33,48.906724,-125.366758,8.8,0.4,0,2.9,3.2,94.5,1.3,M,2,L/M,200,1,Small,L,1,mixed medium and dark bottom sand and seaweed`,MIX_MIX
+F582,210924_Trickett_M2P_01,Trickett,7:35:41,48.907078,-125.366856,8.8,0.4,0,2.9,3.2,94.5,1.3,H,3,H,400,2,Medium,H,2,light sand,LT_SAND
+F583,210924_Trickett_M2P_01,Trickett,7:35:34,48.905941,-125.367598,8.8,0.4,0,2.9,3.2,94.5,1.3,M,2,L/M,3,1,Small,H,2,Dark bottom (seaweed),DK_VEG
+F584,210924_Trickett_M2P_01,Trickett,7:38:57,48.905936,-125.367927,8.8,0.4,1,2.9,3.2,94.5,1.3,M,2,L/M,5,1,Small,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F585,210924_Trickett_M2P_02,Trickett,8:01:29,48.906102,-125.366518,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,100,1,Small,H,2,Dark bottom (seaweed),DK_VEG
+F586,210924_Trickett_M2P_02,Trickett,8:02:01,48.906161,-125.366661,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,10,1,Small,L,1,Dark bottom (seaweed),DK_VEG
+F589,210924_Trickett_M2P_02,Trickett,8:05:52,48.906922,-125.366629,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,300,2,Medium,H,2,light sand,LT_SAND
+F590,210924_Trickett_M2P_02,Trickett,8:05:55,48.906863,-125.366669,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,200,1,Small,H,2,light sand,LT_SAND
+F594,210924_Trickett_M2P_02,Trickett,8:08:13,48.907097,-125.366851,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,300,2,Medium,H,2,Light sand,LT_SAND
+F595,210924_Trickett_M2P_02,Trickett,8:08:47,48.906321,-125.367351,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,30,1,Small,H,2,mixed medium and dark bottom,MIX_MIX
+F597,210924_Trickett_M2P_02,Trickett,8:10:12,48.907208,-125.366928,8.7,0.4,0,1.2,8.2,100.5,1.3,H,3,H,50,1,Small,H,2,Light sand,LT_SAND
+F598,210924_Trickett_M2P_02,Trickett,8:12:48,48.906172,-125.368098,8.7,0.4,0,1.2,8.2,100.5,1.3,M,2,L/M,100,1,Small,L,1,mixed light and dark bottom,MIX_MIX
+F600,210924_Trickett_M2P_03,Trickett,8:36:05,48.906695,-125.366623,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,100,1,Small,H,2,light sand,LT_SAND
+F601,210924_Trickett_M2P_03,Trickett,8:36:13,48.906875,-125.366503,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,200,1,Small,H,2,light sand,LT_SAND
+F602,210924_Trickett_M2P_03,Trickett,8:36:16,48.906942,-125.366459,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,500,2,Medium,H,2,Mixed light sand and dark seaweed,MIX_MIX
+F603,210924_Trickett_M2P_03,Trickett,8:36:19,48.907011,-125.366412,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,300,2,Medium,H,2,light sand,LT_SAND
+F604,210924_Trickett_M2P_03,Trickett,8:37:00,48.907074,-125.366531,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,200,1,Small,H,2,Mixed light sand and dark seaweed,MIX_MIX
+F605,210924_Trickett_M2P_03,Trickett,8:37:09,48.906867,-125.366666,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,200,1,Small,H,2,Mixed light sand and dark seaweed,MIX_MIX
+F606,210924_Trickett_M2P_03,Trickett,8:38:46,48.906941,-125.366784,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,200,1,Small,H,2,Dark seaweeds,DK_VEG
+F607,210924_Trickett_M2P_03,Trickett,8:38:52,48.907076,-125.366695,8.6,0.4,0,0,13.4,106.9,1.2,H,3,H,200,1,Small,H,2,Mixed light sand and dark seaweed,MIX_MIX
+F610,210924_Trickett_M2P_04,Trickett,9:02:18,48.906311,-125.366381,8.5,0.3,0,0,18,113.1,1.2,H,3,H,50,1,Small,H,2,Mixed medium and dark bottom,MIX_MIX
+F611,210924_Trickett_M2P_04,Trickett,9:03:20,48.906634,-125.366341,8.5,0.3,0,0,18,113.1,1.2,H,3,H,10,1,Small,H,2,Light bottom,LT_SAND
+F612,210924_Trickett_M2P_04,Trickett,9:04:31,48.906676,-125.366476,8.5,0.3,0,0,18,113.1,1.2,H,3,H,100,1,Small,H,2,mixed medium and dark bottom sand and seaweed`,MIX_MIX
+F613,210924_Trickett_M2P_04,Trickett,9:05:06,48.905947,-125.366966,8.5,0.3,0,0,18,113.1,1.2,H,3,H,10,1,Small,H,2,dark seaweed bottom,DK_VEG
+F614,210924_Trickett_M2P_04,Trickett,9:05:09,48.905948,-125.367041,8.5,0.3,0,0,18,113.1,1.2,M,2,L/M,200,1,Small,H,2,dark seaweed bottom,DK_VEG
+F615,210924_Trickett_M2P_04,Trickett,9:05:15,48.905968,-125.367106,8.5,0.3,0,0,18,113.1,1.2,H,3,H,500,2,Medium,H,2,dark seaweed bottom,DK_VEG
+F618,210924_Trickett_M2P_04,Trickett,9:07:31,48.905998,-125.367233,8.5,0.3,0,0,18,113.1,1.2,H,3,H,5,1,Small,L,1,Mixed medium and dark bottom,MIX_MIX
+F619,210924_Trickett_M2P_04,Trickett,9:12:08,48.906234,-125.367727,8.5,0.3,0,0,18,113.1,1.2,H,3,H,100,1,Small,H,2,Mixed medium and dark bottom,MIX_MIX
+F620,210924_Trickett_M2P_05,Trickett,9:35:19,48.906099,-125.366521,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,7,1,Small,H,2,Mixed medium and dark bottom,MIX_MIX
+F621,210924_Trickett_M2P_05,Trickett,9:35:46,48.906051,-125.366732,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,10,1,Small,H,2,dark bottom,DK_VEG
+F622,210924_Trickett_M2P_05,Trickett,9:35:48,48.906091,-125.366706,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,50,1,Small,H,2,dark bottom,DK_VEG
+F623,210924_Trickett_M2P_05,Trickett,9:35:52,48.906187,-125.366642,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,1000,3,Large,L,1,Mixed medium and dark bottom,MIX_MIX
+F624,210924_Trickett_M2P_05,Trickett,9:36:07,48.906526,-125.366414,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,H,2,Mixed light sand and dark seaweed,MIX_MIX
+F625,210924_Trickett_M2P_05,Trickett,9:37:25,48.906646,-125.366496,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,400,2,Medium,H,2,Dark seaweed ,DK_VEG
+F626,210924_Trickett_M2P_05,Trickett,9:37:28,48.906577,-125.366542,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,300,2,Medium,L,1,Mixed light and dark bottom,MIX_MIX
+F627,210924_Trickett_M2P_05,Trickett,9:37:31,48.907504,-125.366591,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,L,1,Mixed light and dark bottom,MIX_MIX
+F628,210924_Trickett_M2P_05,Trickett,9:37:34,48.906446,-125.366629,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,L,1,Mixed light and dark bottom,MIX_MIX
+F629,210924_Trickett_M2P_05,Trickett,9:37:37,48.906377,-125.366675,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,100,1,Small,L,1,Mixed medium and dark bottom,MIX_MIX
+F630,210924_Trickett_M2P_05,Trickett,9:37:44,48.906222,-125.366781,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,1000,3,Large,H,2,medium water column,MD_WAT
+F631,210924_Trickett_M2P_05,Trickett,9:37:47,48.906157,-125.366822,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,1000,3,Large,H,2,medium water column,MD_WAT
+F632,210924_Trickett_M2P_05,Trickett,9:37:50,48.906077,-125.366876,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,1000,3,Large,L,1,dark watercolumn,DK_WAT
+F633,210924_Trickett_M2P_05,Trickett,9:37:54,48.905991,-125.366934,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,H,2,dark watercolumn,DK_WAT
+F634,210924_Trickett_M2P_05,Trickett,9:38:12,48.906072,-125.367037,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,50,1,Small,H,2,dark seaweed bottom,DK_VEG
+F635,210924_Trickett_M2P_05,Trickett,9:38:15,48.906147,-125.366988,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,300,2,Medium,H,2,dark seaweed bottom,DK_VEG
+F636,210924_Trickett_M2P_05,Trickett,9:38:19,48.906225,-125.366937,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,H,2,Mixed medium and dark bottom,MIX_MIX
+F637,210924_Trickett_M2P_05,Trickett,9:38:22,48.906307,-125.366882,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,L,1,Mixed medium and dark bottom,MIX_MIX
+F638,210924_Trickett_M2P_05,Trickett,9:38:27,48.906405,-125.366816,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,1000,3,Large,L,1,Mixed medium and dark bottom,MIX_MIX
+F639,210924_Trickett_M2P_05,Trickett,9:38:33,48.906554,-125.366718,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,100,1,Small,H,2,dark seaweed bottom,DK_VEG
+F640,210924_Trickett_M2P_05,Trickett,9:38:38,48.906661,-125.366647,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,300,2,Medium,H,2,dark seaweed bottom,DK_VEG
+F641,210924_Trickett_M2P_05,Trickett,9:39:51,48.906707,-125.366771,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,100,1,Small,H,2,dark seaweed bottom,DK_VEG
+F643,210924_Trickett_M2P_05,Trickett,9:40:04,48.906422,-125.366956,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,10,1,Small,H,2,medium sand bottom,MD_SAND
+F644,210924_Trickett_M2P_05,Trickett,9:40:08,48.906335,-125.367013,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,H,2,medium sand bottom,MD_SAND
+F645,210924_Trickett_M2P_05,Trickett,9:40:11,48.906263,-125.367061,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,1000,3,Large,H,2,medium sand bottom,MD_SAND
+F646,210924_Trickett_M2P_05,Trickett,9:40:14,48.906194,-125.367105,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,500,2,Medium,H,2,dark watercolumn,DK_WAT
+F647,210924_Trickett_M2P_05,Trickett,9:40:57,48.906405,-125.367141,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,20,1,Small,H,2,medium sand bottom,MD_SAND
+F648,210924_Trickett_M2P_05,Trickett,9:41:14,48.906787,-125.366887,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,200,1,Small,H,2,dark seaweed bottom,DK_VEG
+F649,210924_Trickett_M2P_05,Trickett,9:42:33,48.906393,-125.367302,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,15,1,Small,L,1,Mixed medium and dark bottom,MIX_MIX
+F651,210924_Trickett_M2P_05,Trickett,9:42:38,48.906301,-125.367364,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,30,1,Small,H,2,light sand bottom,LT_SAND
+F652,210924_Trickett_M2P_05,Trickett,9:43:23,48.906348,-125.367491,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,15,1,Small,H,2,medium sand bottom,MD_SAND
+F653,210924_Trickett_M2P_05,Trickett,9:45:09,48.906031,-125.367863,8.5,0.3,0,2.7,22.4,119.5,1.3,H,3,H,200,1,Small,H,2,light sand bottom,LT_SAND
+F654,210924_Trickett_M2P_06,Trickett,10:02:55,48.906664,-125.366144,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,50,1,Small,H,2,dark seaweed bottom,DK_VEG
+F655,210924_Trickett_M2P_06,Trickett,10:03:00,48.906554,-125.366217,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,50,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F656,210924_Trickett_M2P_06,Trickett,10:03:04,48.906451,-125.366285,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,200,1,Small,H,2,dark seaweed bottom,DK_VEG
+F657,210924_Trickett_M2P_06,Trickett,10:03:39,48.905909,-125.366832,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,1000,3,Large,L,1,Medium water column,MD_WAT
+F658,210924_Trickett_M2P_06,Trickett,10:05:24,48.906705,-125.366456,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,400,2,Medium,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F659,210924_Trickett_M2P_06,Trickett,10:05:32,48.906533,-125.366571,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,100,1,Small,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F660,210924_Trickett_M2P_06,Trickett,10:06:03,48.905951,-125.367009,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,300,2,Medium,L,1,Mixed light and dark bottom,MIX_MIX
+F661,210924_Trickett_M2P_06,Trickett,10:05:04,48.905953,-125.367074,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,200,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F662,210924_Trickett_M2P_06,Trickett,10:06:16,48.906104,-125.367017,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,50,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F663,210924_Trickett_M2P_06,Trickett,10:06:20,48.906188,-125.366962,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,10000,3,Large,H,2,dark seaweed bottom,DK_VEG
+F664,210924_Trickett_M2P_06,Trickett,10:06:22,48.906238,-125.366929,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,200,1,Small,L,1,medium bottom ,MD_MIX
+F665,210924_Trickett_M2P_06,Trickett,10:06:32,48.906473,-125.366772,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,500,2,Medium,H,2,Mixed light sand and dark seaweed,MIX_MIX
+F666,210924_Trickett_M2P_06,Trickett,10:06:43,48.906704,-125.366619,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,500,2,Medium,H,2,dark seaweed bottom,DK_VEG
+F667,210924_Trickett_M2P_06,Trickett,10:06:43,48.906704,-125.366619,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,300,2,Medium,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F668,210924_Trickett_M2P_06,Trickett,10:07:54,48.906713,-125.366766,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,100,1,Small,L,1,Mixed light sand and dark seaweed,MIX_MIX
+F669,210924_Trickett_M2P_06,Trickett,10:08:17,48.906194,-125.367105,6.3,0.3,0,3.5,26.1,125.7,1.3,H,3,H,1000,3,Large,H,2,Dark seaweed bottom ,DK_VEG
+F670,210924_Trickett_M2P_07,Trickett,10:47:50,48.905945,-125.366621,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,15,1,Small,L,1,Medium water column,MD_WAT
+F671,210924_Trickett_M2P_07,Trickett,10:48:09,48.906024,-125.366751,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,30,1,Small,H,2,Medium water column,MD_WAT
+F672,210924_Trickett_M2P_07,Trickett,10:48:25,48.906374,-125.366517,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,200,1,Small,H,2,medium sand bottom,MD_SAND
+F673,210924_Trickett_M2P_07,Trickett,10:48:38,48.906653,-125.366328,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,250,2,Medium,H,2,Dark seaweed bottom,DK_VEG
+F674,210924_Trickett_M2P_07,Trickett,10:49:48,48.906695,-125.366464,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,300,2,Medium,H,2,Dark water column,DK_WAT
+F675,210924_Trickett_M2P_07,Trickett,10:50:03,48.906358,-125.366688,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,1000,3,Large,H,2,Mixed medium and dark bottom,MIX_MIX
+F676,210924_Trickett_M2P_07,Trickett,10:50:07,48.906258,-125.366755,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,500,2,Medium,H,2,Mixed medium and dark bottom,MIX_MIX
+F677,210924_Trickett_M2P_07,Trickett,10:50:33,48.905992,-125.367091,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,500,2,Medium,H,2,dark seaweed bottom,DK_VEG
+F678,210924_Trickett_M2P_07,Trickett,10:50:48,48.906311,-125.366879,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,300,2,Medium,H,2,dark seaweed bottom,DK_VEG
+F679,210924_Trickett_M2P_07,Trickett,10:50:56,48.906495,-125.366758,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,100,1,Small,H,2,Medium bottom ,MD_MIX
+F680,210924_Trickett_M2P_07,Trickett,10:51:04,48.906673,-125.366639,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,100,1,Small,H,2,Mixed light and dark bottom,MIX_MIX
+F681,210924_Trickett_M2P_07,Trickett,10:52:21,48.906602,-125.366837,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,100,1,Small,H,2,Dark seaweed bottom,DK_VEG
+F682,210924_Trickett_M2P_07,Trickett,10:52:25,48.906514,-125.366897,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,100,1,Small,L,1,Medium seaweed,MD_VEG
+F683,210924_Trickett_M2P_07,Trickett,10:52:34,48.906324,-125.367021,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,200,1,Small,H,2,medium sand bottom,MD_SAND
+F684,210924_Trickett_M2P_07,Trickett,10:52:52,48.905962,-125.367258,6.3,0.3,1,2.4,32.1,137.9,1.7,H,3,H,300,2,Medium,H,2,medium bottom,MD_MIX
+F685,210924_Trickett_M2P_07,Trickett,10:53:18,48.906306,-125.367207,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,100,1,Small,H,2,medium bottom,MD_MIX
+F686,210924_Trickett_M2P_07,Trickett,10:54:28,48.907089,-125.366848,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,10,1,Small,H,2,light sand,LT_SAND
+F687,210924_Trickett_M2P_07,Trickett,10:59:31,48.906219,-125.367735,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,100,1,Small,L,1,Mixed light and dark bottom,MIX_MIX
+F688,210924_Trickett_M2P_07,Trickett,10:59:44,48.905935,-125.367928,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,15,1,Small,H,2,dark bottom,DK_VEG
+F689,210924_Trickett_M2P_07,Trickett,11:00:13,48.906391,-125.367784,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,50,1,Small,H,2,dark bottom ,DK_VEG
+F690,210924_Trickett_M2P_07,Trickett,11:00:57,48.906415,-125.367937,6.3,0.3,0,2.4,32.1,137.9,1.7,H,3,H,30,1,Small,H,2,Dark bottom,DK_VEG
+F691,210924_Trickett_M2P_07,Trickett,11:01:07,48.906199,-125.368081,6.3,0.3,0,2.4,32.1,137.9,1.7,M,2,L/M,100,1,Small,L,1,Medium rock bottom,MD_SAND
